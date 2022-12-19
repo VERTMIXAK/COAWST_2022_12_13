@@ -1,0 +1,27 @@
+lon
+	goes from 0 to 360 in 576 intervals, for .625 deg per interval
+
+
+lat
+	goes from -90 to 90 in 360 intervals, for .5 deg per interval
+
+
+time
+	in minutes for a given day
+
+
+Palau, for instance, with
+
+latMin=0
+latMax=15
+lonMin=125
+lonMax=145
+
+would take (approximately)
+
+	lat[180:1:210]
+
+	lon[200:1:232]
+
+
+https://goldsmr4.gesdisc.eosdis.nasa.gov/thredds/dodsC/MERRA2_aggregation/M2T1NXRAD.5.12.4/M2T1NXRAD.5.12.4_Aggregation_2022.ncml?lon[200:1:232],lat[180:1:210],time[0:1:7295],SWGDN[0:1:7295][180:1:210][200:1:232]

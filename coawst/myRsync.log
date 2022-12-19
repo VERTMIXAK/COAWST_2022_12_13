@@ -1,0 +1,1389 @@
+sending incremental file list
+NORSEd_1km/
+NORSEd_1km/Experiments/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/NORSEd.sbat
+        1112 100%    0.00kB/s    0:00:00        1112 100%    0.00kB/s    0:00:00 (xfer#1, to-check=707/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/NORSEd_1km.nc
+       32768   0%  969.70kB/s    0:00:28    27832788 100%  108.78MB/s    0:00:00 (xfer#2, to-check=706/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/coawstG
+       32768   0%  109.22kB/s    0:06:43    44137832 100%   43.76MB/s    0:00:00 (xfer#3, to-check=705/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/coawstROMSonly
+       32768   0%   31.81kB/s    0:03:32       65536   0%   44.32kB/s    0:02:31     6789880 100%    4.16MB/s    0:00:01 (xfer#4, to-check=704/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/log
+       32768   0%  214.77kB/s    0:00:53    11535417 100%   19.75MB/s    0:00:00 (xfer#5, to-check=703/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/roms.437536
+         330 100%    0.56kB/s    0:00:00         330 100%    0.56kB/s    0:00:00 (xfer#6, to-check=702/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/roms.437538
+          81 100%    0.12kB/s    0:00:00          81 100%    0.12kB/s    0:00:00 (xfer#7, to-check=701/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/roms.437681
+         159 100%    0.22kB/s    0:00:00         159 100%    0.22kB/s    0:00:00 (xfer#8, to-check=700/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/roms.437694
+        4913 100%    6.74kB/s    0:00:00        4913 100%    6.74kB/s    0:00:00 (xfer#9, to-check=699/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/Apps/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/Apps/norsed_1km.h
+        4327 100%    5.81kB/s    0:00:00        4327 100%    5.81kB/s    0:00:00 (xfer#10, to-check=695/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/Apps/norsed_1km.h_mesoNoTides
+        4327 100%    5.67kB/s    0:00:00        4327 100%    5.67kB/s    0:00:00 (xfer#11, to-check=694/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/Apps/ocean_norsed_1km.in
+       32768  22%   36.41kB/s    0:00:03      145591 100%  161.02kB/s    0:00:00 (xfer#12, to-check=693/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/Apps/ocean_norsed_1km.in_mesoNoTides
+       32768  22%   35.16kB/s    0:00:03      145526 100%  150.87kB/s    0:00:00 (xfer#13, to-check=692/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/Apps/runROMS.bash
+       23560 100%   23.92kB/s    0:00:00       23560 100%   23.92kB/s    0:00:00 (xfer#14, to-check=691/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/README
+         270 100%    0.27kB/s    0:00:00         270 100%    0.27kB/s    0:00:00 (xfer#15, to-check=690/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/basinAve.mat
+       32768   0%   31.07kB/s    2:59:11       65536   0%   61.84kB/s    1:30:01   132415488  39%   62.09MB/s    0:00:03   334074690 100%  108.33MB/s    0:00:02 (xfer#16, to-check=689/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/basinAve_fastpostProc.m
+       11043 100%   11.65kB/s    0:00:00       11043 100%   11.65kB/s    0:00:00 (xfer#17, to-check=688/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/bat.bash
+         136 100%    0.14kB/s    0:00:00         136 100%    0.14kB/s    0:00:00 (xfer#18, to-check=687/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/lurk.bash
+         199 100%    0.20kB/s    0:00:00         199 100%    0.20kB/s    0:00:00 (xfer#19, to-check=686/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/lurk.bash_ORIG
+         327 100%    0.32kB/s    0:00:00         327 100%    0.32kB/s    0:00:00 (xfer#20, to-check=685/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/figures/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/figures/SSH_BasinAve.jpg
+       16429 100%   15.04kB/s    0:00:00       16429 100%   15.04kB/s    0:00:01 (xfer#21, to-check=683/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/figures/SSS_BasinAve.jpg
+       18123 100%    0.00kB/s    0:00:00       18123 100%    0.00kB/s    0:00:00 (xfer#22, to-check=682/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/figures/SST_BasinAve.jpg
+       16114 100%  715.29kB/s    0:00:00       16114 100%  715.29kB/s    0:00:00 (xfer#23, to-check=681/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/figures/Salt_BasinAve.jpg
+       16709 100%  203.97kB/s    0:00:00       16709 100%  203.97kB/s    0:00:00 (xfer#24, to-check=680/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/figures/Temp_BasinAve.jpg
+       15471 100%  160.73kB/s    0:00:00       15471 100%  160.73kB/s    0:00:00 (xfer#25, to-check=679/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/figures/shflux_BasinAve.jpg
+       18223 100%  147.07kB/s    0:00:00       18223 100%  147.07kB/s    0:00:00 (xfer#26, to-check=678/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/figures/ssflux_BasinAve.jpg
+       17665 100%  121.49kB/s    0:00:00       17665 100%  121.49kB/s    0:00:00 (xfer#27, to-check=677/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/figures/sustr_BasinAve.jpg
+       18309 100%  109.02kB/s    0:00:00       18309 100%  109.02kB/s    0:00:00 (xfer#28, to-check=676/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/figures/svstr_BasinAve.jpg
+       17520 100%   93.49kB/s    0:00:00       17520 100%   93.49kB/s    0:00:00 (xfer#29, to-check=675/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/basinAve/figures/swrad_BasinAve.jpg
+       14441 100%   69.47kB/s    0:00:00       14441 100%   69.47kB/s    0:00:00 (xfer#30, to-check=674/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/log
+       32768   0%  113.48kB/s    0:01:41    11535417 100%   26.57MB/s    0:00:00 (xfer#31, to-check=673/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his2_00001.nc
+       32768   0%   72.23kB/s    1:10:12    29294592   9%   27.94MB/s    0:00:09   176193536  57%   83.97MB/s    0:00:01   304352124 100%  115.96MB/s    0:00:02 (xfer#32, to-check=672/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his2_00002.nc
+       32768   0%   56.54kB/s    1:26:07       65536   0%   18.40kB/s    4:24:34   143982592  49%   30.67MB/s    0:00:04   292179164 100%   53.28MB/s    0:00:05 (xfer#33, to-check=671/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his2_00003.nc
+       32768   0%   39.80kB/s    2:02:20       65536   0%   17.52kB/s    4:37:57   134021120  45%   27.47MB/s    0:00:05   292179164 100%   52.55MB/s    0:00:05 (xfer#34, to-check=670/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his2_00004.nc
+       32768   0%   46.72kB/s    1:44:13       65536   0%   18.12kB/s    4:28:41   101122048  34%   21.28MB/s    0:00:08   292179164 100%   51.44MB/s    0:00:05 (xfer#35, to-check=669/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his2_00005.nc
+       32768   0%   34.30kB/s    2:21:57       65536   0%   17.03kB/s    4:45:52   121962496  41%   24.45MB/s    0:00:06   292179164 100%   51.69MB/s    0:00:05 (xfer#36, to-check=668/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his2_00006.nc
+       32768   0%   45.20kB/s    1:47:43       65536   0%   18.10kB/s    4:28:54   134807552  46%   28.36MB/s    0:00:05   292179164 100%   53.61MB/s    0:00:05 (xfer#37, to-check=667/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his2_00007.nc
+       32768   0%   45.13kB/s    1:47:52       65536   0%   18.18kB/s    4:27:46   125599744  42%   26.51MB/s    0:00:06   292179164 100%   53.56MB/s    0:00:05 (xfer#38, to-check=666/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his_00001.nc
+       32768   0%   43.07kB/s   17:55:17       65536   0%   17.92kB/s   43:03:59   110002176   3%   22.96MB/s    0:01:53   350322688  12%   59.98MB/s    0:00:39   562069504  20%   81.58MB/s    0:00:26   775520256  27%  184.88MB/s    0:00:10  1024786432  36%  218.10MB/s    0:00:07  1254162432  45%  215.49MB/s    0:00:06  1482620928  53%  219.64MB/s    0:00:05  1717370880  61%  224.72MB/s    0:00:04  1901690880  68%  209.23MB/s    0:00:04  2088828928  75%  199.15MB/s    0:00:03  2335145984  84%  203.41MB/s    0:00:02  2550169600  91%  197.17MB/s    0:00:01  2775220224  99%  206.82MB/s    0:00:00  2778711492 100%  159.58MB/s    0:00:16 (xfer#39, to-check=665/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his_00002.nc
+       32768   0%  372.09kB/s    1:50:37       65536   0%    2.54kB/s  269:43:39   111771648   4%    4.07MB/s    0:09:25   342163456  13%   12.01MB/s    0:02:52   589856768  23%   19.98MB/s    0:01:31   817168384  33%  194.96MB/s    0:00:08  1045561344  42%  222.80MB/s    0:00:06  1263632384  51%  219.86MB/s    0:00:05  1523515392  61%  222.77MB/s    0:00:04  1759051776  71%  224.73MB/s    0:00:03  2004910080  81%  228.73MB/s    0:00:01  2247458816  90%  234.56MB/s    0:00:00  2469968364 100%   65.38MB/s    0:00:36 (xfer#40, to-check=664/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his_00003.nc
+       32768   0%   34.78kB/s   19:43:30       65536   0%    2.55kB/s  268:59:54   161153024   6%    5.89MB/s    0:06:22   404193280  16%   14.23MB/s    0:02:21   644513792  26%   21.88MB/s    0:01:21   884178944  35%  210.95MB/s    0:00:07  1138556928  46%  233.21MB/s    0:00:05  1401815040  56%  238.03MB/s    0:00:04  1645510656  66%  238.84MB/s    0:00:03  1882587136  76%  238.22MB/s    0:00:02  2057961472  83%  219.37MB/s    0:00:01  2256568320  91%  203.84MB/s    0:00:01  2469968364 100%   65.57MB/s    0:00:35 (xfer#41, to-check=663/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his_00004.nc
+       32768   0%   36.36kB/s   18:52:03       65536   0%    2.60kB/s  263:51:49   132677632   5%    4.94MB/s    0:07:42   411074560  16%   14.73MB/s    0:02:16   645300224  26%   22.29MB/s    0:01:19   893747200  36%  213.12MB/s    0:00:07  1098645504  44%  230.36MB/s    0:00:05  1333821440  54%  220.11MB/s    0:00:05  1586135040  64%  224.42MB/s    0:00:03  1852375040  74%  228.67MB/s    0:00:02  2062057472  83%  229.81MB/s    0:00:01  2331443200  94%  238.03MB/s    0:00:00  2469968364 100%   66.96MB/s    0:00:35 (xfer#42, to-check=662/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his_00005.nc
+       32768   0%   49.77kB/s   13:47:10       65536   0%    2.67kB/s  257:18:49   129302528   5%    4.93MB/s    0:07:43   357203968  14%   13.10MB/s    0:02:37   608239616  24%   21.48MB/s    0:01:24   850952192  34%  203.02MB/s    0:00:07  1103003648  44%  232.32MB/s    0:00:05  1314324480  53%  228.37MB/s    0:00:04  1587609600  64%  233.68MB/s    0:00:03  1843494912  74%  236.82MB/s    0:00:02  2075295744  84%  231.99MB/s    0:00:01  2304966656  93%  236.36MB/s    0:00:00  2469968364 100%   68.08MB/s    0:00:34 (xfer#43, to-check=661/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his_00006.nc
+       32768   0%   44.94kB/s   15:15:56       65536   0%    2.59kB/s  264:26:33   109084672   4%    4.05MB/s    0:09:29   316538880  12%   11.32MB/s    0:03:05   577798144  23%   19.91MB/s    0:01:32   826081280  33%  196.74MB/s    0:00:08  1070497792  43%  229.39MB/s    0:00:05  1316519936  53%  238.59MB/s    0:00:04  1541603328  62%  229.96MB/s    0:00:03  1738342400  70%  217.66MB/s    0:00:03  1944518656  78%  208.54MB/s    0:00:02  2139717632  86%  196.41MB/s    0:00:01  2364833792  95%  196.42MB/s    0:00:00  2469968364 100%   65.38MB/s    0:00:36 (xfer#44, to-check=660/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_his_00007.nc
+       32768   0%   75.47kB/s    9:05:26       65536   0%    2.82kB/s  243:21:22    39780352   1%    1.60MB/s    0:24:42    83918848   3%    3.23MB/s    0:12:01   140312576   5%    5.19MB/s    0:07:18   199032832   8%   46.45MB/s    0:00:47   268468224  10%   47.78MB/s    0:00:45   402685952  16%   64.45MB/s    0:00:31   532709376  21%   79.27MB/s    0:00:23   620560384  25%   85.15MB/s    0:00:21   746618880  30%  105.73MB/s    0:00:15   870514688  35%  109.57MB/s    0:00:14  1019150336  41%  114.04MB/s    0:00:12  1182826496  47%  131.78MB/s    0:00:09  1350598656  54%  144.00MB/s    0:00:07  1541603328  62%  160.00MB/s    0:00:05  1709768704  69%  164.66MB/s    0:00:04  1887469568  76%  167.87MB/s    0:00:03  2086076416  84%  175.35MB/s    0:00:02  2274131968  92%  174.65MB/s    0:00:01  2469968364 100%   55.43MB/s    0:00:42 (xfer#45, to-check=659/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/norse_rst.nc
+       32768   0%   32.99kB/s   17:16:43       65536   0%    2.69kB/s  211:45:02   123895808   6%    4.77MB/s    0:06:34   357564416  17%   13.23MB/s    0:02:05   590643200  28%   21.04MB/s    0:01:07   791478272  38%  188.83MB/s    0:00:06  1024393216  49%  214.86MB/s    0:00:04  1303281664  63%  225.65MB/s    0:00:03  1531707392  74%  224.54MB/s    0:00:02  1730379776  84%  224.02MB/s    0:00:01  1981349888  96%  228.33MB/s    0:00:00  2052110212 100%   59.29MB/s    0:00:33 (xfer#46, to-check=658/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_ERA5_GLS/netcdfOutput/ocean_norsed_1km.in
+       32768  22%    0.00kB/s    0:00:00      145591 100%  107.60MB/s    0:00:00 (xfer#47, to-check=657/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/NORSEd.sbat
+         712 100%   43.46kB/s    0:00:00         712 100%   43.46kB/s    0:00:00 (xfer#48, to-check=656/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/NORSEd_1km.nc
+       32768   0%  551.72kB/s    0:00:50    27832788 100%   65.38MB/s    0:00:00 (xfer#49, to-check=655/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/coawstG
+       32768   0%   69.87kB/s    0:10:31    20250624  45%   19.31MB/s    0:00:01    44137832 100%   37.15MB/s    0:00:01 (xfer#50, to-check=654/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/coawstROMSonly
+       32768   0%  165.80kB/s    0:00:40     6789880 100%    8.80MB/s    0:00:00 (xfer#51, to-check=653/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/log
+       32768   0%   39.17kB/s    0:15:25     4227072  11%    3.70MB/s    0:00:08    36291261 100%   19.62MB/s    0:00:01 (xfer#52, to-check=652/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/ocean_norsed_1km.in
+       32768  22%   45.65kB/s    0:00:02       65536  45%   60.72kB/s    0:00:01      144822 100%  134.05kB/s    0:00:01 (xfer#53, to-check=651/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/roms.439563
+       32768   8%    1.30MB/s    0:00:00      372932 100%   12.70MB/s    0:00:00 (xfer#54, to-check=650/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/Apps/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/Apps/norsed_1km.h
+        4327 100%   91.86kB/s    0:00:00        4327 100%   89.91kB/s    0:00:00 (xfer#55, to-check=645/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/Apps/norsed_1km.h_mesoNoTides
+        4327 100%   69.27kB/s    0:00:00        4327 100%   69.27kB/s    0:00:00 (xfer#56, to-check=644/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/Apps/ocean_norsed_1km.in
+       32768  22%  304.76kB/s    0:00:00      144923 100%    1.26MB/s    0:00:00 (xfer#57, to-check=643/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/Apps/ocean_norsed_1km.in_ORIG
+       32768  22%  207.79kB/s    0:00:00      144917 100%  884.50kB/s    0:00:00 (xfer#58, to-check=642/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/Apps/ocean_norsed_1km.in_mesoNoTides
+       32768  22%  170.21kB/s    0:00:00      144824 100%  752.29kB/s    0:00:00 (xfer#59, to-check=641/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/Apps/runROMS.bash
+       23561 100%  107.52kB/s    0:00:00       23561 100%  107.52kB/s    0:00:00 (xfer#60, to-check=640/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/README
+         270 100%    1.16kB/s    0:00:00         270 100%    1.16kB/s    0:00:00 (xfer#61, to-check=639/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/basinAve.mat
+       32768   0%  115.52kB/s    0:48:11    92307456  27%   87.94MB/s    0:00:02   306446336  91%  146.12MB/s    0:00:00   334076371 100%  150.78MB/s    0:00:02 (xfer#62, to-check=638/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/basinAve_fastpostProc.m
+       11043 100%   78.72kB/s    0:00:00       11043 100%   78.72kB/s    0:00:00 (xfer#63, to-check=637/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/bat.bash
+         136 100%    0.87kB/s    0:00:00         136 100%    0.87kB/s    0:00:00 (xfer#64, to-check=636/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/lurk.bash
+         199 100%    1.15kB/s    0:00:00         199 100%    1.14kB/s    0:00:00 (xfer#65, to-check=635/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/lurk.bash_ORIG
+         327 100%    1.72kB/s    0:00:00         327 100%    1.72kB/s    0:00:00 (xfer#66, to-check=634/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/figures/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/figures/SSH_BasinAve.jpg
+       18468 100%   87.98kB/s    0:00:00       18468 100%   87.98kB/s    0:00:00 (xfer#67, to-check=632/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/figures/SSS_BasinAve.jpg
+       20426 100%    0.00kB/s    0:00:00       20426 100%    0.00kB/s    0:00:00 (xfer#68, to-check=631/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/figures/SST_BasinAve.jpg
+       15989 100%  600.55kB/s    0:00:00       15989 100%  600.55kB/s    0:00:00 (xfer#69, to-check=630/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/figures/Salt_BasinAve.jpg
+       19823 100%  604.95kB/s    0:00:00       19823 100%  604.95kB/s    0:00:00 (xfer#70, to-check=629/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/figures/Temp_BasinAve.jpg
+       17383 100%  287.72kB/s    0:00:00       17383 100%  287.72kB/s    0:00:00 (xfer#71, to-check=628/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/figures/shflux_BasinAve.jpg
+       20353 100%  261.53kB/s    0:00:00       20353 100%  258.13kB/s    0:00:00 (xfer#72, to-check=627/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/figures/ssflux_BasinAve.jpg
+       21998 100%  216.99kB/s    0:00:00       21998 100%  216.99kB/s    0:00:00 (xfer#73, to-check=626/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/figures/sustr_BasinAve.jpg
+       20761 100%  174.78kB/s    0:00:00       20761 100%  174.78kB/s    0:00:00 (xfer#74, to-check=625/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/figures/svstr_BasinAve.jpg
+       21618 100%  150.80kB/s    0:00:00       21618 100%  150.80kB/s    0:00:00 (xfer#75, to-check=624/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/basinAve/figures/swrad_BasinAve.jpg
+       14072 100%   87.53kB/s    0:00:00       14072 100%   87.53kB/s    0:00:00 (xfer#76, to-check=623/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/log
+       32768   0%  170.21kB/s    0:03:33    36291261 100%   67.60MB/s    0:00:00 (xfer#77, to-check=622/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00001.nc
+       32768   0%   57.76kB/s    1:27:48     4227072   1%    4.03MB/s    0:01:12   151781376  49%   72.38MB/s    0:00:02   304352236 100%  109.41MB/s    0:00:02 (xfer#78, to-check=621/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00002.nc
+       32768   0%   46.11kB/s    1:45:35       65536   0%   17.46kB/s    4:38:52   131137536  44%   26.81MB/s    0:00:05   292179276 100%   51.96MB/s    0:00:05 (xfer#79, to-check=620/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00003.nc
+       32768   0%   41.67kB/s    1:56:51       65536   0%   17.63kB/s    4:36:08   109674496  37%   22.60MB/s    0:00:07   292179276 100%   50.39MB/s    0:00:05 (xfer#80, to-check=619/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00004.nc
+       32768   0%   33.30kB/s    2:26:13       65536   0%   16.71kB/s    4:51:21   116588544  39%   23.02MB/s    0:00:07   292179276 100%   49.80MB/s    0:00:05 (xfer#81, to-check=618/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00005.nc
+       32768   0%   39.17kB/s    2:04:18       65536   0%   16.28kB/s    4:58:57   133365760  45%   25.80MB/s    0:00:06   292179276 100%   50.07MB/s    0:00:05 (xfer#82, to-check=617/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00006.nc
+       32768   0%   46.51kB/s    1:44:41       65536   0%   18.01kB/s    4:30:21    98304000  33%   20.59MB/s    0:00:09   292179276 100%   51.66MB/s    0:00:05 (xfer#83, to-check=616/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00007.nc
+       32768   0%   34.22kB/s    2:22:16       65536   0%   16.80kB/s    4:49:45   141590528  48%   28.08MB/s    0:00:05   292179276 100%   51.18MB/s    0:00:05 (xfer#84, to-check=615/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00008.nc
+       32768   0%   45.85kB/s    1:46:12       65536   0%   17.89kB/s    4:32:10   121077760  41%   25.23MB/s    0:00:06   292179228 100%   51.27MB/s    0:00:05 (xfer#85, to-check=614/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00009.nc
+       32768   0%   32.69kB/s    2:28:57       65536   0%   13.65kB/s    5:56:46   123797504  42%   20.75MB/s    0:00:07   292179228 100%   42.89MB/s    0:00:06 (xfer#86, to-check=613/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00010.nc
+       32768   0%   37.17kB/s    2:11:00       65536   0%   16.26kB/s    4:59:29   145588224  49%   28.13MB/s    0:00:05   292179228 100%   49.86MB/s    0:00:05 (xfer#87, to-check=612/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00011.nc
+       32768   0%   46.18kB/s    1:45:26       65536   0%   17.90kB/s    4:32:01   113213440  38%   23.60MB/s    0:00:07   292179228 100%   51.72MB/s    0:00:05 (xfer#88, to-check=611/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00012.nc
+       32768   0%   36.66kB/s    2:12:50       65536   0%   17.17kB/s    4:43:31   151453696  51%   30.56MB/s    0:00:04   292179228 100%   51.60MB/s    0:00:05 (xfer#89, to-check=610/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00013.nc
+       32768   0%   39.90kB/s    2:02:01       65536   0%   17.26kB/s    4:42:04   133627904  45%   27.07MB/s    0:00:05   292179228 100%   51.22MB/s    0:00:05 (xfer#90, to-check=609/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00014.nc
+       32768   0%   41.50kB/s    1:57:18       65536   0%   16.32kB/s    4:58:21   134250496  45%   25.96MB/s    0:00:05   292179228 100%   49.80MB/s    0:00:05 (xfer#91, to-check=608/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00015.nc
+       32768   0%   45.13kB/s    1:47:52       65536   0%   17.61kB/s    4:36:31   123142144  42%   25.34MB/s    0:00:06   292179228 100%   52.83MB/s    0:00:05 (xfer#92, to-check=607/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00016.nc
+       32768   0%   46.44kB/s    1:44:50       65536   0%   18.21kB/s    4:27:23   151846912  51%   32.08MB/s    0:00:04   292179228 100%   55.01MB/s    0:00:05 (xfer#93, to-check=606/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00017.nc
+       32768   0%   54.05kB/s    1:30:04       65536   0%   18.20kB/s    4:27:27    92307456  31%   19.47MB/s    0:00:10   292179228 100%   52.67MB/s    0:00:05 (xfer#94, to-check=605/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00018.nc
+       32768   0%   38.83kB/s    2:05:22       65536   0%   17.45kB/s    4:38:57   115245056  39%   23.55MB/s    0:00:07   292179228 100%   51.58MB/s    0:00:05 (xfer#95, to-check=604/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00019.nc
+       32768   0%   41.03kB/s    1:58:41       65536   0%   15.34kB/s    5:17:22   130056192  44%   23.99MB/s    0:00:06   292179228 100%   48.06MB/s    0:00:05 (xfer#96, to-check=603/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00020.nc
+       32768   0%   48.05kB/s    1:41:20       65536   0%   18.00kB/s    4:30:26   132841472  45%   27.82MB/s    0:00:05   292179228 100%   53.22MB/s    0:00:05 (xfer#97, to-check=602/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00021.nc
+       32768   0%   42.72kB/s    1:53:58       65536   0%   17.64kB/s    4:35:59   120717312  41%   24.88MB/s    0:00:06   292179228 100%   52.14MB/s    0:00:05 (xfer#98, to-check=601/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00022.nc
+       32768   0%   41.56kB/s    1:57:09       65536   0%   17.84kB/s    4:32:56   141983744  48%   29.52MB/s    0:00:04   292179228 100%   53.47MB/s    0:00:05 (xfer#99, to-check=600/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00023.nc
+       32768   0%   47.98kB/s    1:41:29       65536   0%   18.07kB/s    4:29:22   124059648  42%   26.06MB/s    0:00:06   292179228 100%   52.15MB/s    0:00:05 (xfer#100, to-check=599/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00024.nc
+       32768   0%   37.47kB/s    2:09:56       65536   0%   16.51kB/s    4:54:55   129826816  44%   25.39MB/s    0:00:06   292179228 100%   50.77MB/s    0:00:05 (xfer#101, to-check=598/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00025.nc
+       32768   0%   46.51kB/s    1:44:41       65536   0%   17.26kB/s    4:42:08   117014528  40%   23.70MB/s    0:00:07   292179228 100%   51.16MB/s    0:00:05 (xfer#102, to-check=597/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00026.nc
+       32768   0%   39.95kB/s    2:01:52       65536   0%   17.39kB/s    4:39:56   132677632  45%   27.04MB/s    0:00:05   292179228 100%   52.00MB/s    0:00:05 (xfer#103, to-check=596/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00027.nc
+       32768   0%   43.72kB/s    1:51:22       65536   0%   17.47kB/s    4:38:43   109477888  37%   22.39MB/s    0:00:07   292179228 100%   50.54MB/s    0:00:05 (xfer#104, to-check=595/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00028.nc
+       32768   0%   35.28kB/s    2:18:00       65536   0%   16.33kB/s    4:58:02   120946688  41%   23.46MB/s    0:00:07   292179228 100%   49.91MB/s    0:00:05 (xfer#105, to-check=594/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00029.nc
+       32768   0%   41.50kB/s    1:57:18       65536   0%   17.78kB/s    4:33:46   110428160  37%   22.90MB/s    0:00:07   292179228 100%   52.01MB/s    0:00:05 (xfer#106, to-check=593/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his2_00030.nc
+       32768   0%   39.90kB/s    0:10:10       65536   0%   17.46kB/s    0:23:12    24374108 100%    5.92MB/s    0:00:03 (xfer#107, to-check=592/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00001.nc
+       32768   0%   90.14kB/s    8:33:45    41975808   1%   38.38MB/s    0:01:09   226230272   8%  105.66MB/s    0:00:23   440270848  15%  138.07MB/s    0:00:16   676528128  24%  159.70MB/s    0:00:12   910983168  32%  207.34MB/s    0:00:08  1176076288  42%  226.63MB/s    0:00:06  1415380992  50%  232.66MB/s    0:00:05  1687683072  60%  241.26MB/s    0:00:04  1927315456  69%  242.49MB/s    0:00:03  2151612416  77%  232.76MB/s    0:00:02  2397896704  86%  234.43MB/s    0:00:01  2620850176  94%  222.65MB/s    0:00:00  2778711604 100%  210.23MB/s    0:00:12 (xfer#108, to-check=591/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00002.nc
+       32768   0%   51.12kB/s   13:25:18       65536   0%    2.43kB/s  282:22:38   156794880   6%    5.47MB/s    0:06:53   401211392  16%   13.50MB/s    0:02:29   638353408  25%   20.75MB/s    0:01:26   869335040  35%  207.41MB/s    0:00:07  1076690944  43%  219.48MB/s    0:00:06  1283489792  51%  210.25MB/s    0:00:05  1497202688  60%  204.66MB/s    0:00:04  1739227136  70%  207.29MB/s    0:00:03  1945829376  78%  207.12MB/s    0:00:02  2199453696  89%  218.55MB/s    0:00:01  2382921728  96%  211.33MB/s    0:00:00  2469968476 100%   62.21MB/s    0:00:37 (xfer#109, to-check=590/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00003.nc
+       32768   0%   56.64kB/s   12:06:49       65536   0%    2.57kB/s  266:39:41   160661504   6%    5.92MB/s    0:06:20   376274944  15%   13.35MB/s    0:02:33   618102784  25%   21.15MB/s    0:01:25   843808768  34%  201.32MB/s    0:00:07  1077870592  43%  218.84MB/s    0:00:06  1262747648  51%  211.51MB/s    0:00:05  1534754816  62%  218.71MB/s    0:00:04  1775435776  71%  222.28MB/s    0:00:03  2027225088  82%  226.51MB/s    0:00:01  2250637312  91%  235.71MB/s    0:00:00  2469968476 100%   66.08MB/s    0:00:35 (xfer#110, to-check=589/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00004.nc
+       32768   0%   38.32kB/s   17:54:09       65536   0%    2.59kB/s  265:19:56    83918848   3%    3.11MB/s    0:12:30   293732352  11%   10.47MB/s    0:03:23   517668864  20%   17.79MB/s    0:01:47   764870656  30%  182.07MB/s    0:00:09  1007517696  40%  220.37MB/s    0:00:06  1233059840  49%  224.12MB/s    0:00:05  1423900672  57%  216.22MB/s    0:00:04  1670610944  67%  216.11MB/s    0:00:03  1903788032  77%  213.85MB/s    0:00:02  2122874880  85%  212.31MB/s    0:00:01  2321317888  93%  214.12MB/s    0:00:00  2469968476 100%   64.90MB/s    0:00:36 (xfer#111, to-check=588/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00005.nc
+       32768   0%   53.51kB/s   12:49:16       65536   0%    2.72kB/s  252:33:14    87752704   3%    3.41MB/s    0:11:22   327188480  13%   12.21MB/s    0:02:51   600899584  24%   21.58MB/s    0:01:24   880836608  35%  209.83MB/s    0:00:07  1106804736  44%  242.78MB/s    0:00:05  1333821440  54%  239.88MB/s    0:00:04  1553039360  62%  226.89MB/s    0:00:03  1780940800  72%  214.66MB/s    0:00:03  2013921280  81%  216.33MB/s    0:00:02  2189459456  88%  204.05MB/s    0:00:01  2443149312  98%  212.27MB/s    0:00:00  2469968476 100%   67.98MB/s    0:00:34 (xfer#112, to-check=587/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00006.nc
+       32768   0%  233.58kB/s    2:56:14       65536   0%    2.65kB/s  258:42:26    81690624   3%    3.10MB/s    0:12:32   288686080  11%   10.54MB/s    0:03:22   506527744  20%   17.81MB/s    0:01:47   739606528  29%  176.45MB/s    0:00:09   911278080  36%  197.94MB/s    0:00:07  1134067712  45%  201.71MB/s    0:00:06  1400569856  56%  213.32MB/s    0:00:04  1656389632  67%  218.74MB/s    0:00:03  1888190464  76%  233.09MB/s    0:00:02  2122088448  85%  235.74MB/s    0:00:01  2349989888  95%  226.53MB/s    0:00:00  2469968476 100%   66.14MB/s    0:00:35 (xfer#113, to-check=586/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00007.nc
+       32768   0%   59.04kB/s   11:37:14       65536   0%    2.55kB/s  268:56:03   159514624   6%    5.83MB/s    0:06:26   388857856  15%   13.69MB/s    0:02:28   642252800  26%   21.81MB/s    0:01:21   879558656  35%  209.84MB/s    0:00:07  1108115456  44%  226.33MB/s    0:00:05  1367179264  55%  233.43MB/s    0:00:04  1584201728  64%  224.75MB/s    0:00:03  1837137920  74%  228.25MB/s    0:00:02  2062581760  83%  227.51MB/s    0:00:01  2289008640  92%  219.73MB/s    0:00:00  2469968476 100%   65.72MB/s    0:00:35 (xfer#114, to-check=585/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00008.nc
+       32768   0%   38.83kB/s   13:57:02       65536   0%    2.56kB/s  211:14:13   146604032   7%    5.39MB/s    0:05:26   360742912  18%   12.76MB/s    0:02:01   577896448  29%   19.72MB/s    0:01:07   811139072  41%  193.47MB/s    0:00:05  1048281088  53%  215.08MB/s    0:00:04  1269628928  65%  216.86MB/s    0:00:03  1496645632  76%  219.21MB/s    0:00:02  1707114496  87%  213.78MB/s    0:00:01  1936949248  99%  212.03MB/s    0:00:00  1950415336 100%   54.72MB/s    0:00:33 (xfer#115, to-check=584/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00009.nc
+       32768   0%  268.91kB/s    2:00:52       65536   0%    3.34kB/s  162:22:05   156237824   8%    7.38MB/s    0:03:57   370278400  18%   16.67MB/s    0:01:32   606240768  31%   26.07MB/s    0:00:50   851771392  43%  203.21MB/s    0:00:05  1112178688  57%  228.09MB/s    0:00:03  1332183040  68%  229.51MB/s    0:00:02  1570373632  80%  230.04MB/s    0:00:01  1815216128  93%  229.88MB/s    0:00:00  1950415336 100%   66.93MB/s    0:00:27 (xfer#116, to-check=583/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00010.nc
+       32768   0%   46.65kB/s   11:36:51       65536   0%    3.22kB/s  168:03:24   142639104   7%    6.52MB/s    0:04:30   392462336  20%   17.13MB/s    0:01:28   645693440  33%   26.94MB/s    0:00:47   867729408  44%  206.87MB/s    0:00:05  1101332480  56%  228.74MB/s    0:00:03  1305051136  66%  217.74MB/s    0:00:02  1495793664  76%  202.83MB/s    0:00:02  1701183488  87%  198.86MB/s    0:00:01  1944715264  99%  201.23MB/s    0:00:00  1950415336 100%   64.43MB/s    0:00:28 (xfer#117, to-check=582/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00011.nc
+       32768   0%  426.67kB/s    1:16:11       65536   0%    3.35kB/s  161:34:51   129630208   6%    6.15MB/s    0:04:48   324304896  16%   14.67MB/s    0:01:48   544407552  27%   23.51MB/s    0:00:58   729841664  37%  173.99MB/s    0:00:06   973012992  49%  201.08MB/s    0:00:04  1197506560  61%  208.24MB/s    0:00:03  1442643968  73%  214.16MB/s    0:00:02  1672773632  85%  224.98MB/s    0:00:01  1916141568  98%  225.03MB/s    0:00:00  1950415336 100%   65.96MB/s    0:00:28 (xfer#118, to-check=581/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00012.nc
+       32768   0%  167.54kB/s    3:14:01       65536   0%    3.35kB/s  161:42:59    92307456   4%    4.38MB/s    0:06:54   277938176  14%   12.56MB/s    0:02:10   545292288  27%   23.52MB/s    0:00:58   813629440  41%  193.63MB/s    0:00:05  1058045952  54%  230.25MB/s    0:00:03  1299742720  66%  243.62MB/s    0:00:02  1535148032  78%  236.00MB/s    0:00:01  1736015872  89%  219.91MB/s    0:00:00  1931313152  99%  208.20MB/s    0:00:00  1950415336 100%   65.98MB/s    0:00:28 (xfer#119, to-check=580/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00013.nc
+       32768   0%  223.78kB/s    2:25:15       65536   0%    3.32kB/s  163:04:45   162398208   8%    7.64MB/s    0:03:48   415006720  21%   18.61MB/s    0:01:20   643563520  32%   27.57MB/s    0:00:46   880836608  45%  210.10MB/s    0:00:04  1136820224  58%  232.44MB/s    0:00:03  1386217472  71%  231.67MB/s    0:00:02  1633124352  83%  236.05MB/s    0:00:01  1877901312  96%  237.90MB/s    0:00:00  1950415336 100%   67.59MB/s    0:00:27 (xfer#120, to-check=579/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00014.nc
+       32768   0%  102.56kB/s    5:16:56       65536   0%    3.32kB/s  163:19:29   104890368   5%    4.93MB/s    0:06:05   342196224  17%   15.33MB/s    0:01:42   585990144  30%   25.07MB/s    0:00:53   862584832  44%  205.74MB/s    0:00:05  1142620160  58%  247.60MB/s    0:00:03  1384153088  70%  248.17MB/s    0:00:02  1601437696  82%  241.86MB/s    0:00:01  1867907072  95%  239.45MB/s    0:00:00  1950415336 100%   67.34MB/s    0:00:27 (xfer#121, to-check=578/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00015.nc
+       32768   0%   86.25kB/s    6:16:52       65536   0%    3.35kB/s  161:34:51   172261376   8%    8.18MB/s    0:03:32   407961600  20%   18.45MB/s    0:01:21   640745472  32%   27.67MB/s    0:00:46   873299968  44%  208.35MB/s    0:00:05  1102381056  56%  221.92MB/s    0:00:03  1315045376  67%  216.43MB/s    0:00:02  1554546688  79%  218.03MB/s    0:00:01  1808793600  92%  223.21MB/s    0:00:00  1950415336 100%   67.30MB/s    0:00:27 (xfer#122, to-check=577/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00016.nc
+       32768   0%   51.78kB/s   10:27:46       65536   0%    3.26kB/s  166:15:44   125861888   6%    5.81MB/s    0:05:06   368640000  18%   16.24MB/s    0:01:35   582025216  29%   24.52MB/s    0:00:54   857407488  43%  204.41MB/s    0:00:05  1080819712  55%  227.85MB/s    0:00:03  1305051136  66%  223.43MB/s    0:00:02  1545699328  79%  229.93MB/s    0:00:01  1777958912  91%  219.64MB/s    0:00:00  1950415336 100%   65.82MB/s    0:00:28 (xfer#123, to-check=576/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00017.nc
+       32768   0%   47.41kB/s   11:25:40       65536   0%    3.29kB/s  164:54:28   144015360   7%    6.71MB/s    0:04:23   378961920  19%   16.83MB/s    0:01:31   603062272  30%   25.59MB/s    0:00:51   844496896  43%  201.48MB/s    0:00:05  1123057664  57%  233.60MB/s    0:00:03  1401257984  71%  243.92MB/s    0:00:02  1673560064  85%  255.42MB/s    0:00:01  1904934912  97%  253.02MB/s    0:00:00  1950415336 100%   67.33MB/s    0:00:27 (xfer#124, to-check=575/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00018.nc
+       32768   0%  162.44kB/s    3:20:07       65536   0%    3.33kB/s  162:39:52   121798656   6%    5.75MB/s    0:05:10   343965696  17%   15.46MB/s    0:01:41   584876032  29%   25.11MB/s    0:00:53   796950528  40%  189.80MB/s    0:00:05  1038942208  53%  218.45MB/s    0:00:04  1259405312  64%  218.15MB/s    0:00:03  1476329472  75%  212.43MB/s    0:00:02  1735229440  88%  223.87MB/s    0:00:00  1950415336 100%   66.01MB/s    0:00:28 (xfer#125, to-check=574/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00019.nc
+       32768   0%   31.19kB/s   17:22:14       65536   0%    3.21kB/s  169:00:48   143556608   7%    6.53MB/s    0:04:30   400457728  20%   17.39MB/s    0:01:27   629243904  32%   26.13MB/s    0:00:49   832634880  42%  198.65MB/s    0:00:05  1073250304  55%  221.82MB/s    0:00:03  1318322176  67%  219.00MB/s    0:00:02  1550352384  79%  219.77MB/s    0:00:01  1801256960  92%  231.11MB/s    0:00:00  1950415336 100%   65.22MB/s    0:00:28 (xfer#126, to-check=573/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00020.nc
+       32768   0%   52.46kB/s   10:19:39       65536   0%    3.24kB/s  167:17:11   126615552   6%    5.82MB/s    0:05:06   358285312  18%   15.70MB/s    0:01:39   598573056  30%   25.08MB/s    0:00:52   847282176  43%  202.04MB/s    0:00:05  1099530240  56%  232.02MB/s    0:00:03  1344962560  68%  235.30MB/s    0:00:02  1591279616  81%  236.74MB/s    0:00:01  1845428224  94%  238.16MB/s    0:00:00  1950415336 100%   66.10MB/s    0:00:28 (xfer#127, to-check=572/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00021.nc
+       32768   0%   73.06kB/s    7:24:55       65536   0%    3.20kB/s  169:26:11    92307456   4%    4.18MB/s    0:07:14   275808256  14%   11.92MB/s    0:02:17   549224448  28%   22.70MB/s    0:01:00   745897984  38%  175.45MB/s    0:00:06  1004961792  51%  217.76MB/s    0:00:04  1247510528  63%  231.85MB/s    0:00:02  1485012992  76%  223.28MB/s    0:00:02  1711407104  87%  230.37MB/s    0:00:01  1950415336 100%   64.19MB/s    0:00:28 (xfer#128, to-check=571/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00022.nc
+       32768   0%   32.99kB/s   16:25:20       65536   0%    3.17kB/s  171:09:48   132186112   6%    5.94MB/s    0:04:58   387940352  19%   16.65MB/s    0:01:31   633962496  32%   26.04MB/s    0:00:49   839090176  43%  200.19MB/s    0:00:05  1082392576  55%  226.72MB/s    0:00:03  1325596672  67%  223.72MB/s    0:00:02  1566736384  80%  222.56MB/s    0:00:01  1805746176  92%  230.64MB/s    0:00:00  1950415336 100%   64.70MB/s    0:00:28 (xfer#129, to-check=570/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00023.nc
+       32768   0%   49.23kB/s   11:00:17       65536   0%    3.18kB/s  170:30:11   127860736   6%    5.77MB/s    0:05:08   336822272  17%   14.51MB/s    0:01:48   588906496  30%   24.27MB/s    0:00:54   825753600  42%  197.01MB/s    0:00:05  1086357504  55%  228.69MB/s    0:00:03  1313505280  67%  233.03MB/s    0:00:02  1544880128  79%  228.09MB/s    0:00:01  1810366464  92%  234.93MB/s    0:00:00  1950415336 100%   64.85MB/s    0:00:28 (xfer#130, to-check=569/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00024.nc
+       32768   0%   54.89kB/s    9:52:13       65536   0%    3.30kB/s  164:07:14   168230912   8%    7.87MB/s    0:03:41   398163968  20%   17.75MB/s    0:01:25   642678784  32%   27.38MB/s    0:00:46   861732864  44%  205.59MB/s    0:00:05  1098055680  56%  221.85MB/s    0:00:03  1275068416  65%  209.23MB/s    0:00:03  1511194624  77%  207.23MB/s    0:00:02  1761443840  90%  214.67MB/s    0:00:00  1950415336 100%   66.27MB/s    0:00:28 (xfer#131, to-check=568/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00025.nc
+       32768   0%   42.78kB/s   12:39:50       65536   0%    3.26kB/s  166:19:47   129794048   6%    5.99MB/s    0:04:56   385941504  19%   17.00MB/s    0:01:29   645955584  33%   27.20MB/s    0:00:46   898433024  46%  214.24MB/s    0:00:04  1141342208  58%  241.23MB/s    0:00:03  1391525888  71%  239.81MB/s    0:00:02  1632862208  83%  235.47MB/s    0:00:01  1884651520  96%  235.31MB/s    0:00:00  1950415336 100%   66.75MB/s    0:00:27 (xfer#132, to-check=567/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00026.nc
+       32768   0%  120.75kB/s    4:29:11       65536   0%    3.23kB/s  167:46:38   177274880   9%    8.12MB/s    0:03:33   367788032  18%   16.08MB/s    0:01:36   606896128  31%   25.37MB/s    0:00:51   841252864  43%  200.66MB/s    0:00:05  1092026368  55%  218.20MB/s    0:00:03  1353515008  69%  235.19MB/s    0:00:02  1617756160  82%  241.19MB/s    0:00:01  1864728576  95%  244.20MB/s    0:00:00  1950415336 100%   66.16MB/s    0:00:28 (xfer#133, to-check=566/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00027.nc
+       32768   0%   92.75kB/s    5:50:27       65536   0%    3.32kB/s  163:07:18   139034624   7%    6.54MB/s    0:04:30   355532800  18%   15.94MB/s    0:01:37   592314368  30%   25.37MB/s    0:00:52   867500032  44%  206.97MB/s    0:00:05  1128628224  57%  236.11MB/s    0:00:03  1400930304  71%  249.30MB/s    0:00:02  1641021440  84%  250.09MB/s    0:00:01  1886322688  96%  242.97MB/s    0:00:00  1950415336 100%   67.66MB/s    0:00:27 (xfer#134, to-check=565/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00028.nc
+       32768   0%  116.36kB/s    4:39:21       65536   0%    3.37kB/s  160:36:57    92307456   4%    4.41MB/s    0:06:51   326369280  16%   14.84MB/s    0:01:46   573374464  29%   24.88MB/s    0:00:54   839712768  43%  200.19MB/s    0:00:05  1093763072  56%  238.94MB/s    0:00:03  1336803328  68%  241.09MB/s    0:00:02  1574633472  80%  238.90MB/s    0:00:01  1822457856  93%  234.48MB/s    0:00:00  1950415336 100%   67.78MB/s    0:00:27 (xfer#135, to-check=564/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00029.nc
+       32768   0%   62.38kB/s    8:41:07       65536   0%    3.30kB/s  164:13:19   143196160   7%    6.69MB/s    0:04:23   387153920  19%   17.25MB/s    0:01:28   636289024  32%   27.09MB/s    0:00:47   903086080  46%  215.46MB/s    0:00:04  1111785472  57%  231.10MB/s    0:00:03  1356234752  69%  231.22MB/s    0:00:02  1610481664  82%  232.44MB/s    0:00:01  1836875776  94%  222.80MB/s    0:00:00  1950415336 100%   66.90MB/s    0:00:27 (xfer#136, to-check=563/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_his_00030.nc
+       24568 100%   56.99kB/s    0:00:00       24568 100%   56.99kB/s    0:00:00 (xfer#137, to-check=562/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/norse_rst.nc
+       32768   0%    0.00kB/s    0:00:00   123764736   6%  118.00MB/s    0:00:15   354779136  17%  169.24MB/s    0:00:09   581992448  28%  185.12MB/s    0:00:07   827817984  40%  197.51MB/s    0:00:06  1064992768  51%  224.57MB/s    0:00:04  1323073536  64%  231.03MB/s    0:00:03  1572732928  76%  236.39MB/s    0:00:01  1803583488  87%  232.64MB/s    0:00:01  2052110324 100%  220.46MB/s    0:00:08 (xfer#138, to-check=561/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput/ocean_norsed_1km.in
+       32768  22%    0.00kB/s    0:00:00      144923 100%  106.96MB/s    0:00:00 (xfer#139, to-check=560/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/log
+       32768   0%  220.69kB/s    0:00:52    11554577 100%   35.89MB/s    0:00:00 (xfer#140, to-check=559/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his2_00001.nc
+       32768   0%   81.42kB/s    1:02:17    41975808  13%   39.63MB/s    0:00:06   209485824  68%   99.44MB/s    0:00:00   304352236 100%  118.33MB/s    0:00:02 (xfer#141, to-check=558/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his2_00002.nc
+       32768   0%   64.65kB/s    1:15:19       65536   0%   18.68kB/s    4:20:37    80609280  27%   17.37MB/s    0:00:11   292179276 100%   51.89MB/s    0:00:05 (xfer#142, to-check=557/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his2_00003.nc
+       32768   0%   32.16kB/s    2:31:23       65536   0%   16.76kB/s    4:50:30   101220352  34%   20.04MB/s    0:00:09   268468224  91%   43.77MB/s    0:00:00   292179276 100%   46.53MB/s    0:00:05 (xfer#143, to-check=556/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his2_00004.nc
+       32768   0%  159.20kB/s    0:30:35       65536   0%   21.14kB/s    3:50:20   113868800  38%   26.97MB/s    0:00:06   292179276 100%   57.64MB/s    0:00:04 (xfer#144, to-check=555/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his2_00005.nc
+       32768   0%   37.69kB/s    2:09:11       65536   0%   17.66kB/s    4:35:45   111640576  38%   23.03MB/s    0:00:07   292179276 100%   49.87MB/s    0:00:05 (xfer#145, to-check=554/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his2_00006.nc
+       32768   0%   31.13kB/s    2:36:25       65536   0%   16.64kB/s    4:52:29   108494848  37%   21.36MB/s    0:00:08   292179276 100%   49.19MB/s    0:00:05 (xfer#146, to-check=553/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his2_00007.nc
+       32768   0%   36.95kB/s    2:11:46       65536   0%   17.38kB/s    4:40:05   160137216  54%   32.63MB/s    0:00:03   292179276 100%   53.93MB/s    0:00:05 (xfer#147, to-check=552/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his_00001.nc
+       32768   0%   60.61kB/s   12:44:08       65536   0%   17.44kB/s   44:14:54   160202752   5%   32.73MB/s    0:01:18   414679040  14%   69.78MB/s    0:00:33   667353088  24%   95.48MB/s    0:00:21   924188672  33%  220.49MB/s    0:00:08  1192984576  42%  246.42MB/s    0:00:06  1438777344  51%  244.35MB/s    0:00:05  1623326720  58%  228.09MB/s    0:00:04  1870692352  67%  225.66MB/s    0:00:03  2142928896  77%  226.48MB/s    0:00:02  2390786048  86%  226.69MB/s    0:00:01  2655584256  95%  245.80MB/s    0:00:00  2778711604 100%  174.36MB/s    0:00:15 (xfer#148, to-check=551/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his_00002.nc
+       32768   0%   53.60kB/s   12:47:59       65536   0%    2.51kB/s  273:32:38   109084672   4%    3.92MB/s    0:09:47   354779136  14%   12.30MB/s    0:02:47   589791232  23%   19.73MB/s    0:01:33   830504960  33%  197.99MB/s    0:00:08  1101561856  44%  236.68MB/s    0:00:05  1348370432  54%  236.95MB/s    0:00:04  1519976448  61%  221.83MB/s    0:00:04  1778548736  72%  226.20MB/s    0:00:02  1996062720  80%  213.43MB/s    0:00:02  2255945728  91%  216.55MB/s    0:00:00  2469968476 100%   64.79MB/s    0:00:36 (xfer#149, to-check=550/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his_00003.nc
+       32768   0%   36.41kB/s   18:50:46       65536   0%    2.58kB/s  265:48:53   134250496   5%    4.95MB/s    0:07:40   372211712  15%   13.22MB/s    0:02:34   612401152  24%   20.97MB/s    0:01:26   860684288  34%  202.55MB/s    0:00:07  1126006784  45%  236.51MB/s    0:00:05  1374060544  55%  238.92MB/s    0:00:04  1609039872  65%  237.80MB/s    0:00:03  1854701568  75%  237.17MB/s    0:00:02  2110717952  85%  234.95MB/s    0:00:01  2350186496  95%  232.90MB/s    0:00:00  2469968476 100%   66.73MB/s    0:00:35 (xfer#150, to-check=549/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his_00004.nc
+       32768   0%   61.19kB/s   11:12:48       65536   0%    2.61kB/s  262:33:59    92405760   3%    3.46MB/s    0:11:11   310411264  12%   11.17MB/s    0:03:08   559153152  22%   19.40MB/s    0:01:36   829194240  33%  197.73MB/s    0:00:08  1100972032  44%  240.52MB/s    0:00:05  1333821440  54%  244.06MB/s    0:00:04  1590001664  64%  245.83MB/s    0:00:03  1845788672  74%  242.38MB/s    0:00:02  2058616832  83%  228.32MB/s    0:00:01  2297921536  93%  230.03MB/s    0:00:00  2469968476 100%   66.58MB/s    0:00:35 (xfer#151, to-check=548/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his_00005.nc
+       32768   0%   34.37kB/s   19:57:39       65536   0%    2.69kB/s  255:25:37   126386176   5%    4.86MB/s    0:07:51   360349696  14%   13.31MB/s    0:02:34   589398016  23%   20.95MB/s    0:01:27   836337664  33%  199.53MB/s    0:00:07  1093435392  44%  230.74MB/s    0:00:05  1283031040  51%  220.15MB/s    0:00:05  1534918656  62%  225.60MB/s    0:00:04  1763573760  71%  221.24MB/s    0:00:03  1993834496  80%  214.83MB/s    0:00:02  2229993472  90%  225.94MB/s    0:00:01  2469968476 100%   67.69MB/s    0:00:34 (xfer#152, to-check=547/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his_00006.nc
+       32768   0%   31.28kB/s   21:56:00       65536   0%    2.53kB/s  270:39:36   139493376   5%    5.07MB/s    0:07:29   377520128  15%   13.21MB/s    0:02:34   632160256  25%   21.34MB/s    0:01:24   884441088  35%  210.80MB/s    0:00:07  1118142464  45%  233.27MB/s    0:00:05  1346994176  54%  231.31MB/s    0:00:04  1595310080  64%  229.81MB/s    0:00:03  1843625984  74%  228.86MB/s    0:00:02  2088796160  84%  231.48MB/s    0:00:01  2327281664  94%  233.78MB/s    0:00:00  2469968476 100%   65.89MB/s    0:00:35 (xfer#153, to-check=546/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_his_00007.nc
+       32768   0%   54.05kB/s   12:41:33       65536   0%    2.61kB/s  262:38:29   125861888   5%    4.71MB/s    0:08:06   377520128  15%   13.58MB/s    0:02:30   619184128  25%   21.47MB/s    0:01:24   865533952  35%  206.19MB/s    0:00:07  1096482816  44%  231.53MB/s    0:00:05  1276805120  51%  214.57MB/s    0:00:05  1522532352  61%  215.54MB/s    0:00:04  1767538688  71%  215.22MB/s    0:00:03  1990950912  80%  213.42MB/s    0:00:02  2236973056  90%  229.09MB/s    0:00:00  2469968476 100%   66.52MB/s    0:00:35 (xfer#154, to-check=545/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/norse_rst.nc
+       32768   0%   31.22kB/s   18:15:30       65536   0%    2.65kB/s  215:28:24   125861888   6%    4.76MB/s    0:06:34   352550912  17%   12.83MB/s    0:02:09   600375296  29%   21.05MB/s    0:01:07   862289920  42%  205.52MB/s    0:00:05  1097760768  53%  231.89MB/s    0:00:04  1344012288  65%  236.56MB/s    0:00:02  1602977792  78%  239.22MB/s    0:00:01  1830682624  89%  231.06MB/s    0:00:00  2052110324 100%   59.26MB/s    0:00:33 (xfer#155, to-check=544/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_mesoNoTides_MERRA_GLS/netcdfOutput_bak/ocean_norsed_1km.in
+       32768  22%   36.99kB/s    0:00:03       65536  45%    3.05kB/s    0:00:26      144917 100%    6.75kB/s    0:00:20 (xfer#156, to-check=543/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/NORSEd.sbat
+        1112 100%   98.72kB/s    0:00:00        1112 100%   98.72kB/s    0:00:00 (xfer#157, to-check=542/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/NORSEd_1km.nc
+       32768   0%  516.13kB/s    0:00:53    27832788 100%   49.89MB/s    0:00:00 (xfer#158, to-check=541/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/coawstG
+       32768   0%   56.74kB/s    0:13:21     4227072   9%    3.95MB/s    0:00:10    45492408 100%   30.49MB/s    0:00:01 (xfer#159, to-check=540/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/coawstROMSonly
+       32768   0%   64.39kB/s    0:01:47     1441792  20%    1.38MB/s    0:00:03     6950992 100%    6.40MB/s    0:00:01 (xfer#160, to-check=539/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/log
+       32768   0%  405.06kB/s    0:00:28    11537267 100%   24.51MB/s    0:00:00 (xfer#161, to-check=538/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/roms.437647
+         137 100%    0.29kB/s    0:00:00         137 100%    0.29kB/s    0:00:00 (xfer#162, to-check=537/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/roms.437665
+         273 100%    0.55kB/s    0:00:00         273 100%    0.55kB/s    0:00:00 (xfer#163, to-check=536/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/roms.437679
+         195 100%    0.38kB/s    0:00:00         195 100%    0.38kB/s    0:00:00 (xfer#164, to-check=535/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/roms.437685
+         158 100%    0.25kB/s    0:00:00         158 100%    0.25kB/s    0:00:00 (xfer#165, to-check=534/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/roms.437692
+        4860 100%    7.50kB/s    0:00:00        4860 100%    7.50kB/s    0:00:00 (xfer#166, to-check=533/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/Apps/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/Apps/norsed_1km.h
+        4329 100%    6.42kB/s    0:00:00        4329 100%    6.42kB/s    0:00:00 (xfer#167, to-check=529/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/Apps/norsed_1km.h_meso
+        4329 100%    6.23kB/s    0:00:00        4329 100%    6.23kB/s    0:00:00 (xfer#168, to-check=528/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/Apps/ocean_norsed_1km.in
+       32768  22%   42.22kB/s    0:00:02      145602 100%  186.60kB/s    0:00:00 (xfer#169, to-check=527/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/Apps/ocean_norsed_1km.in_meso
+       32768  22%   38.93kB/s    0:00:02      145537 100%  171.44kB/s    0:00:00 (xfer#170, to-check=526/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/Apps/runROMS.bash
+       23560 100%   27.33kB/s    0:00:00       23560 100%   27.33kB/s    0:00:00 (xfer#171, to-check=525/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/README
+         270 100%    0.31kB/s    0:00:00         270 100%    0.31kB/s    0:00:00 (xfer#172, to-check=524/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/basinAve.mat
+       32768   0%   34.93kB/s    2:39:21     4227072   1%    4.00MB/s    0:01:20   133365760  39%   63.34MB/s    0:00:03   334074691 100%  111.99MB/s    0:00:02 (xfer#173, to-check=523/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/basinAve_fastpostProc.m
+       11043 100%   12.47kB/s    0:00:00       11043 100%   12.47kB/s    0:00:00 (xfer#174, to-check=522/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/bat.bash
+         136 100%    0.15kB/s    0:00:00         136 100%    0.15kB/s    0:00:00 (xfer#175, to-check=521/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/lurk.bash
+         199 100%    0.22kB/s    0:00:00         199 100%    0.22kB/s    0:00:00 (xfer#176, to-check=520/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/lurk.bash_ORIG
+         327 100%    0.35kB/s    0:00:00         327 100%    0.35kB/s    0:00:00 (xfer#177, to-check=519/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/figures/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/figures/SSH_BasinAve.jpg
+       15988 100%   16.97kB/s    0:00:00       15988 100%   16.97kB/s    0:00:00 (xfer#178, to-check=517/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/figures/SSS_BasinAve.jpg
+       18040 100%    0.00kB/s    0:00:00       18040 100%    0.00kB/s    0:00:00 (xfer#179, to-check=516/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/figures/SST_BasinAve.jpg
+       16145 100%    1.18MB/s    0:00:00       16145 100%    1.18MB/s    0:00:00 (xfer#180, to-check=515/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/figures/Salt_BasinAve.jpg
+       16801 100%  455.76kB/s    0:00:00       16801 100%  455.76kB/s    0:00:00 (xfer#181, to-check=514/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/figures/Temp_BasinAve.jpg
+       15417 100%  134.43kB/s    0:00:00       15417 100%  134.43kB/s    0:00:00 (xfer#182, to-check=513/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/figures/shflux_BasinAve.jpg
+       18227 100%  120.27kB/s    0:00:00       18227 100%  120.27kB/s    0:00:00 (xfer#183, to-check=512/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/figures/ssflux_BasinAve.jpg
+       17665 100%  106.49kB/s    0:00:00       17665 100%  106.49kB/s    0:00:00 (xfer#184, to-check=511/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/figures/sustr_BasinAve.jpg
+       18309 100%   89.40kB/s    0:00:00       18309 100%   89.40kB/s    0:00:00 (xfer#185, to-check=510/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/figures/svstr_BasinAve.jpg
+       17520 100%   71.29kB/s    0:00:00       17520 100%   71.29kB/s    0:00:00 (xfer#186, to-check=509/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/basinAve/figures/swrad_BasinAve.jpg
+       14441 100%   54.24kB/s    0:00:00       14441 100%   54.03kB/s    0:00:00 (xfer#187, to-check=508/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/log
+       32768   0%  106.31kB/s    0:01:48    11537267 100%   24.95MB/s    0:00:00 (xfer#188, to-check=507/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his2_00001.nc
+       32768   0%   66.81kB/s    1:15:55    35618816  11%   33.97MB/s    0:00:07   226525184  74%  108.02MB/s    0:00:00   304352356 100%  124.09MB/s    0:00:02 (xfer#189, to-check=506/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his2_00002.nc
+       32768   0%   77.86kB/s    1:02:32       65536   0%   18.64kB/s    4:21:13   134250496  45%   28.41MB/s    0:00:05   238387200  81%   41.29MB/s    0:00:01   292179396 100%   48.65MB/s    0:00:05 (xfer#190, to-check=505/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his2_00003.nc
+       32768   0%  111.11kB/s    0:43:49       65536   0%   20.66kB/s    3:55:40   109215744  37%   25.42MB/s    0:00:07   292179396 100%   57.92MB/s    0:00:04 (xfer#191, to-check=504/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his2_00004.nc
+       32768   0%   41.03kB/s    1:58:41       65536   0%   17.67kB/s    4:35:31   111312896  38%   22.97MB/s    0:00:07   286425088  98%   48.60MB/s    0:00:00   292179396 100%   49.41MB/s    0:00:05 (xfer#192, to-check=503/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his2_00005.nc
+       32768   0%  516.13kB/s    0:09:26       65536   0%   20.66kB/s    3:55:40   105185280  36%   24.48MB/s    0:00:07   292179396 100%   55.35MB/s    0:00:05 (xfer#193, to-check=502/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his2_00006.nc
+       32768   0%   31.25kB/s    2:35:48       65536   0%   16.41kB/s    4:56:45   108003328  36%   21.02MB/s    0:00:08   292179396 100%   49.20MB/s    0:00:05 (xfer#194, to-check=501/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his2_00007.nc
+       32768   0%   39.31kB/s    2:03:51       65536   0%   17.29kB/s    4:41:36   137854976  47%   27.97MB/s    0:00:05   292179396 100%   52.36MB/s    0:00:05 (xfer#195, to-check=500/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his_00001.nc
+       32768   0%   47.69kB/s   16:11:05       65536   0%   18.01kB/s   42:50:58   129859584   4%   27.21MB/s    0:01:35   305299456  10%   52.44MB/s    0:00:46   539852800  19%   78.59MB/s    0:00:27   786333696  28%  187.60MB/s    0:00:10   993001472  35%  205.94MB/s    0:00:08  1245282304  44%  224.28MB/s    0:00:06  1471086592  52%  222.19MB/s    0:00:05  1707966464  61%  219.90MB/s    0:00:04  1947566080  70%  227.76MB/s    0:00:03  2206236672  79%  229.11MB/s    0:00:02  2476277760  89%  239.66MB/s    0:00:01  2696183808  97%  235.61MB/s    0:00:00  2778711724 100%  166.76MB/s    0:00:15 (xfer#196, to-check=499/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his_00002.nc
+       32768   0%   70.64kB/s    9:42:45       65536   0%    2.49kB/s  275:18:07   128581632   5%    4.60MB/s    0:08:17   327843840  13%   11.30MB/s    0:03:05   535003136  21%   17.79MB/s    0:01:46   732332032  29%  174.72MB/s    0:00:09   997785600  40%  207.39MB/s    0:00:06  1218609152  49%  212.53MB/s    0:00:05  1465352192  59%  221.98MB/s    0:00:04  1690468352  68%  228.61MB/s    0:00:03  1951956992  79%  227.66MB/s    0:00:02  2205188096  89%  235.40MB/s    0:00:01  2434301952  98%  231.19MB/s    0:00:00  2469968596 100%   64.02MB/s    0:00:36 (xfer#197, to-check=498/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his_00003.nc
+       32768   0%  178.77kB/s    3:50:16       65536   0%    2.61kB/s  263:21:35   144801792   5%    5.40MB/s    0:07:00   377389056  15%   13.55MB/s    0:02:30   636485632  25%   22.02MB/s    0:01:21   874446848  35%  208.63MB/s    0:00:07  1139834880  46%  237.41MB/s    0:00:05  1392476160  56%  242.20MB/s    0:00:04  1658290176  67%  243.80MB/s    0:00:03  1865515008  75%  236.47MB/s    0:00:02  2117074944  85%  233.17MB/s    0:00:01  2319548416  93%  221.20MB/s    0:00:00  2469968596 100%   66.98MB/s    0:00:35 (xfer#198, to-check=497/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his_00004.nc
+       32768   0%   45.20kB/s   15:10:47       65536   0%    2.59kB/s  265:23:09   112558080   4%    4.17MB/s    0:09:12   323616768  13%   11.54MB/s    0:03:01   562069504  22%   19.31MB/s    0:01:36   829325312  33%  197.66MB/s    0:00:08  1086095360  43%  232.05MB/s    0:00:05  1343258624  54%  243.04MB/s    0:00:04  1524334592  61%  229.59MB/s    0:00:04  1727725568  69%  214.36MB/s    0:00:03  1954578432  79%  207.17MB/s    0:00:02  2213052416  89%  207.48MB/s    0:00:01  2458419200  99%  222.81MB/s    0:00:00  2469968596 100%   65.78MB/s    0:00:35 (xfer#199, to-check=496/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his_00005.nc
+       32768   0%  246.15kB/s    2:47:14       65536   0%    2.78kB/s  246:43:20   113180672   4%    4.49MB/s    0:08:32   321126400  13%   12.24MB/s    0:02:51   562888704  22%   20.64MB/s    0:01:30   806944768  32%  192.52MB/s    0:00:08  1039204352  42%  220.95MB/s    0:00:06  1293156352  52%  231.92MB/s    0:00:04  1547567104  62%  234.94MB/s    0:00:03  1761247232  71%  227.69MB/s    0:00:03  1999437824  80%  229.05MB/s    0:00:02  2247688192  91%  227.69MB/s    0:00:00  2469968596 100%   69.67MB/s    0:00:33 (xfer#200, to-check=495/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his_00006.nc
+       32768   0%   37.25kB/s   18:25:02       65536   0%    2.55kB/s  268:57:59   128581632   5%    4.70MB/s    0:08:06   360742912  14%   12.70MB/s    0:02:42   581926912  23%   19.76MB/s    0:01:33   832110592  33%  198.33MB/s    0:00:08  1094516736  44%  230.24MB/s    0:00:05  1343946752  54%  234.59MB/s    0:00:04  1619394560  65%  247.54MB/s    0:00:03  1862696960  75%  245.90MB/s    0:00:02  2099052544  84%  239.68MB/s    0:00:01  2353135616  95%  240.79MB/s    0:00:00  2469968596 100%   66.35MB/s    0:00:35 (xfer#201, to-check=494/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_his_00007.nc
+       32768   0%   66.81kB/s   10:16:11       65536   0%    2.62kB/s  262:16:37   136970240   5%    5.13MB/s    0:07:24   327122944  13%   11.79MB/s    0:02:57   567377920  22%   19.70MB/s    0:01:34   830504960  33%  198.04MB/s    0:00:08  1020264448  41%  210.65MB/s    0:00:06  1259634688  50%  222.38MB/s    0:00:05  1441660928  58%  208.50MB/s    0:00:04  1680769024  68%  202.87MB/s    0:00:03  1905000448  77%  211.10MB/s    0:00:02  2082996224  84%  196.45MB/s    0:00:01  2322628608  94%  210.20MB/s    0:00:00  2469968596 100%   65.15MB/s    0:00:36 (xfer#202, to-check=493/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/norse_rst.nc
+       32768   0%   42.33kB/s   13:28:00       65536   0%    2.78kB/s  205:04:47   120422400   5%    4.78MB/s    0:06:34   381812736  18%   14.55MB/s    0:01:52   644907008  31%   23.63MB/s    0:00:58   906821632  44%  216.35MB/s    0:00:05  1127743488  54%  240.34MB/s    0:00:03  1391984640  67%  241.02MB/s    0:00:02  1625587712  79%  233.99MB/s    0:00:01  1858371584  90%  227.04MB/s    0:00:00  2052110444 100%   61.48MB/s    0:00:31 (xfer#203, to-check=492/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_ERA5_GLS/netcdfOutput/ocean_norsed_1km.in
+       32768  22%    0.00kB/s    0:00:00      145602 100%  107.61MB/s    0:00:00 (xfer#204, to-check=491/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/NORSEd.sbat
+        1112 100%   57.15kB/s    0:00:00        1112 100%   57.15kB/s    0:00:00 (xfer#205, to-check=490/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/NORSEd_1km.nc
+       32768   0%  615.38kB/s    0:00:45    27832788 100%   83.47MB/s    0:00:00 (xfer#206, to-check=489/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/coawstG
+       32768   0%   83.99kB/s    0:09:01    30638080  67%   29.22MB/s    0:00:00    45492408 100%   37.99MB/s    0:00:01 (xfer#207, to-check=488/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/coawstROMSonly
+       32768   0%  171.12kB/s    0:00:40     6950992 100%    8.98MB/s    0:00:00 (xfer#208, to-check=487/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/log
+       32768   0%   40.61kB/s    0:04:43      294912   2%  260.40kB/s    0:00:43    11556427 100%    9.35MB/s    0:00:01 (xfer#209, to-check=486/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/roms.437648
+         137 100%    1.29kB/s    0:00:00         137 100%    1.27kB/s    0:00:00 (xfer#210, to-check=485/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/roms.437680
+         195 100%    1.64kB/s    0:00:00         195 100%    1.64kB/s    0:00:00 (xfer#211, to-check=484/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/roms.437693
+        5814 100%   42.06kB/s    0:00:00        5814 100%   42.06kB/s    0:00:00 (xfer#212, to-check=483/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/roms.437810
+        5715 100%   31.35kB/s    0:00:00        5715 100%   31.35kB/s    0:00:00 (xfer#213, to-check=482/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/roms.437822
+        4860 100%   20.55kB/s    0:00:00        4860 100%   20.55kB/s    0:00:00 (xfer#214, to-check=481/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/Apps/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/Apps/norsed_1km.h
+        4329 100%   16.32kB/s    0:00:00        4329 100%   16.32kB/s    0:00:00 (xfer#215, to-check=477/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/Apps/norsed_1km.h_meso
+        4329 100%   14.99kB/s    0:00:00        4329 100%   14.99kB/s    0:00:00 (xfer#216, to-check=476/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/Apps/ocean_norsed_1km.in
+       32768  22%   96.97kB/s    0:00:01      145609 100%  424.47kB/s    0:00:00 (xfer#217, to-check=475/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/Apps/ocean_norsed_1km.in_meso
+       32768  22%   83.55kB/s    0:00:01      145537 100%  364.43kB/s    0:00:00 (xfer#218, to-check=474/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/Apps/runROMS.bash
+       23560 100%   56.39kB/s    0:00:00       23560 100%   56.39kB/s    0:00:00 (xfer#219, to-check=473/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/README
+         270 100%    0.64kB/s    0:00:00         270 100%    0.64kB/s    0:00:00 (xfer#220, to-check=472/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/basinAve.mat
+       32768   0%   66.95kB/s    1:23:09    58556416  17%   55.84MB/s    0:00:04   268107776  80%  127.91MB/s    0:00:00   334074688 100%  142.36MB/s    0:00:02 (xfer#221, to-check=471/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/basinAve_fastpostProc.m
+       11043 100%   34.34kB/s    0:00:00       11043 100%   34.34kB/s    0:00:00 (xfer#222, to-check=470/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/bat.bash
+         136 100%    0.41kB/s    0:00:00         136 100%    0.41kB/s    0:00:00 (xfer#223, to-check=469/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/lurk.bash
+         199 100%    0.56kB/s    0:00:00         199 100%    0.56kB/s    0:00:00 (xfer#224, to-check=468/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/lurk.bash_ORIG
+         327 100%    0.87kB/s    0:00:00         327 100%    0.87kB/s    0:00:00 (xfer#225, to-check=467/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/figures/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/figures/SSH_BasinAve.jpg
+       15976 100%   33.92kB/s    0:00:00       15976 100%   33.92kB/s    0:00:00 (xfer#226, to-check=465/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/figures/SSS_BasinAve.jpg
+       17634 100%    0.00kB/s    0:00:00       17634 100%    0.00kB/s    0:00:00 (xfer#227, to-check=464/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/figures/SST_BasinAve.jpg
+       16207 100%  659.46kB/s    0:00:00       16207 100%  659.46kB/s    0:00:00 (xfer#228, to-check=463/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/figures/Salt_BasinAve.jpg
+       17233 100%  400.69kB/s    0:00:00       17233 100%  391.37kB/s    0:00:00 (xfer#229, to-check=462/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/figures/Temp_BasinAve.jpg
+       15517 100%  252.56kB/s    0:00:00       15517 100%  252.56kB/s    0:00:00 (xfer#230, to-check=461/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/figures/shflux_BasinAve.jpg
+       18102 100%  200.88kB/s    0:00:00       18102 100%  200.88kB/s    0:00:00 (xfer#231, to-check=460/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/figures/ssflux_BasinAve.jpg
+       18457 100%  150.20kB/s    0:00:00       18457 100%  150.20kB/s    0:00:00 (xfer#232, to-check=459/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/figures/sustr_BasinAve.jpg
+       17457 100%  115.97kB/s    0:00:00       17457 100%  115.97kB/s    0:00:00 (xfer#233, to-check=458/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/figures/svstr_BasinAve.jpg
+       17566 100%  103.34kB/s    0:00:00       17566 100%  103.34kB/s    0:00:00 (xfer#234, to-check=457/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/basinAve/figures/swrad_BasinAve.jpg
+       14441 100%   72.69kB/s    0:00:00       14441 100%   72.69kB/s    0:00:00 (xfer#235, to-check=456/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/log
+       32768   0%  139.13kB/s    0:01:22    11556427 100%   31.22MB/s    0:00:00 (xfer#236, to-check=455/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his2_00001.nc
+       32768   0%   75.47kB/s    1:07:12    41975808  13%   37.80MB/s    0:00:06   192610304  63%   89.26MB/s    0:00:01   304352468 100%  115.96MB/s    0:00:02 (xfer#237, to-check=454/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his2_00002.nc
+       32768   0%   61.66kB/s    1:18:58       65536   0%   18.58kB/s    4:22:03   133365760  45%   28.62MB/s    0:00:05   292179508 100%   54.37MB/s    0:00:05 (xfer#238, to-check=453/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his2_00003.nc
+       32768   0%   42.84kB/s    1:53:39       65536   0%   18.05kB/s    4:29:40    94470144  32%   19.83MB/s    0:00:09   292179508 100%   50.96MB/s    0:00:05 (xfer#239, to-check=452/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his2_00004.nc
+       32768   0%   32.62kB/s    2:29:16       65536   0%   16.90kB/s    4:48:04    92569600  31%   18.45MB/s    0:00:10   292179508 100%   49.69MB/s    0:00:05 (xfer#240, to-check=451/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his2_00005.nc
+       32768   0%   28.27kB/s    2:52:14       65536   0%   16.34kB/s    4:57:53    65667072  22%   12.74MB/s    0:00:17   223215616  76%   36.00MB/s    0:00:01   292179508 100%   43.94MB/s    0:00:06 (xfer#241, to-check=450/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his2_00006.nc
+       32768   0%   65.71kB/s    1:14:06       65536   0%   19.44kB/s    4:10:25   130580480  44%   29.02MB/s    0:00:05   292179508 100%   56.21MB/s    0:00:04 (xfer#242, to-check=449/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his2_00007.nc
+       32768   0%   44.82kB/s    1:48:38       65536   0%   18.24kB/s    4:26:56   108920832  37%   23.04MB/s    0:00:07   292179508 100%   52.87MB/s    0:00:05 (xfer#243, to-check=448/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his_00001.nc
+       32768   0%   39.41kB/s   19:35:08       65536   0%   17.73kB/s   43:32:13   111476736   4%   23.07MB/s    0:01:52   276856832   9%   47.05MB/s    0:00:51   486047744  17%   70.12MB/s    0:00:31   737083392  26%  175.72MB/s    0:00:11   949846016  34%  199.88MB/s    0:00:08  1186463744  42%  217.03MB/s    0:00:07  1413513216  50%  217.75MB/s    0:00:06  1606713344  57%  204.17MB/s    0:00:05  1831108608  65%  206.90MB/s    0:00:04  2048196608  73%  202.32MB/s    0:00:03  2246475776  80%  198.74MB/s    0:00:02  2478145536  89%  207.92MB/s    0:00:01  2684387328  96%  199.40MB/s    0:00:00  2778711836 100%  153.75MB/s    0:00:17 (xfer#244, to-check=447/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his_00002.nc
+       32768   0%   60.49kB/s   11:20:31       65536   0%    2.18kB/s  314:24:31   152600576   6%    4.80MB/s    0:07:51   393281536  15%   11.97MB/s    0:02:49   656441344  26%   19.37MB/s    0:01:31   908361728  36%  216.72MB/s    0:00:07  1145569280  46%  236.92MB/s    0:00:05  1349058560  54%  228.05MB/s    0:00:04  1570996224  63%  218.21MB/s    0:00:04  1792311296  72%  210.91MB/s    0:00:03  2030567424  82%  211.16MB/s    0:00:02  2274590720  92%  220.83MB/s    0:00:00  2469968708 100%   58.71MB/s    0:00:40 (xfer#245, to-check=446/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his_00003.nc
+       32768   0%   37.74kB/s   18:10:53       65536   0%    2.29kB/s  299:58:46   146833408   5%    4.82MB/s    0:07:50   372178944  15%   11.82MB/s    0:02:53   620429312  25%   19.07MB/s    0:01:34   880836608  35%  207.35MB/s    0:00:07  1106739200  44%  228.86MB/s    0:00:05  1302462464  52%  221.80MB/s    0:00:05  1561362432  63%  224.34MB/s    0:00:03  1789755392  72%  216.87MB/s    0:00:03  2013298688  81%  214.96MB/s    0:00:02  2202632192  89%  213.44MB/s    0:00:01  2436694016  98%  207.55MB/s    0:00:00  2469968708 100%   60.14MB/s    0:00:39 (xfer#246, to-check=445/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his_00004.nc
+       32768   0%  187.13kB/s    3:39:58       65536   0%    2.58kB/s  265:55:19   136413184   5%    5.04MB/s    0:07:32   378601472  15%   13.47MB/s    0:02:31   645955584  26%   22.15MB/s    0:01:20   872054784  35%  207.90MB/s    0:00:07  1124630528  45%  235.61MB/s    0:00:05  1400995840  56%  243.76MB/s    0:00:04  1654980608  67%  240.75MB/s    0:00:03  1895432192  76%  244.18MB/s    0:00:02  2143485952  86%  243.10MB/s    0:00:01  2366832640  95%  230.45MB/s    0:00:00  2469968708 100%   66.84MB/s    0:00:35 (xfer#247, to-check=444/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his_00005.nc
+       32768   0%   62.50kB/s   10:58:38       65536   0%    2.53kB/s  271:40:43   143523840   5%    5.20MB/s    0:07:17   380731392  15%   13.28MB/s    0:02:33   597426176  24%   20.10MB/s    0:01:30   852918272  34%  203.49MB/s    0:00:07  1080197120  43%  223.49MB/s    0:00:06  1304231936  52%  220.34MB/s    0:00:05  1540161536  62%  224.93MB/s    0:00:04  1774649344  71%  219.92MB/s    0:00:03  2004910080  81%  220.63MB/s    0:00:02  2267971584  91%  229.95MB/s    0:00:00  2469968708 100%   65.23MB/s    0:00:36 (xfer#248, to-check=443/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his_00006.nc
+       32768   0%   38.93kB/s   17:37:26       65536   0%    2.58kB/s  265:54:01   145817600   5%    5.39MB/s    0:07:01   395378688  16%   14.07MB/s    0:02:24   657915904  26%   22.57MB/s    0:01:18   880836608  35%  210.15MB/s    0:00:07  1105821696  44%  229.05MB/s    0:00:05  1356234752  54%  229.26MB/s    0:00:04  1594294272  64%  223.42MB/s    0:00:03  1853849600  75%  232.16MB/s    0:00:02  2094923776  84%  236.00MB/s    0:00:01  2275180544  92%  219.26MB/s    0:00:00  2469968708 100%   66.31MB/s    0:00:35 (xfer#249, to-check=442/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_his_00007.nc
+       32768   0%   38.69kB/s   17:43:52       65536   0%    2.68kB/s  255:43:37   134250496   5%    5.15MB/s    0:07:23   379682816  15%   14.00MB/s    0:02:25   616071168  24%   21.87MB/s    0:01:22   862257152  34%  205.10MB/s    0:00:07  1117356032  45%  234.57MB/s    0:00:05  1363542016  55%  234.75MB/s    0:00:04  1619460096  65%  239.41MB/s    0:00:03  1869479936  75%  240.32MB/s    0:00:02  2120908800  85%  239.45MB/s    0:00:01  2367225856  95%  239.48MB/s    0:00:00  2469968708 100%   68.82MB/s    0:00:34 (xfer#250, to-check=441/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/norse_rst.nc
+       32768   0%   76.92kB/s    7:24:37       65536   0%    2.64kB/s  216:13:18   119144448   5%    4.50MB/s    0:06:59   357269504  17%   12.97MB/s    0:02:07   597065728  29%   20.88MB/s    0:01:08   833421312  40%  198.84MB/s    0:00:05  1099563008  53%  233.93MB/s    0:00:03  1329922048  64%  232.07MB/s    0:00:03  1591508992  77%  237.27MB/s    0:00:01  1841594368  89%  240.55MB/s    0:00:00  2052110556 100%   59.21MB/s    0:00:33 (xfer#251, to-check=440/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_meso_MERRA_GLS/netcdfOutput/ocean_norsed_1km.in
+       32768  22%    0.00kB/s    0:00:00      145609 100%  107.61MB/s    0:00:00 (xfer#252, to-check=439/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/NORSEd.sbat
+         995 100%   69.41kB/s    0:00:00         995 100%   64.78kB/s    0:00:00 (xfer#253, to-check=438/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/NORSEd_1km.nc
+       32768   0%  581.82kB/s    0:00:47    27832788 100%   84.00MB/s    0:00:00 (xfer#254, to-check=437/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/coawstROMSonly
+       32768   0%   90.14kB/s    0:01:12     6592152 100%    8.76MB/s    0:00:00 (xfer#255, to-check=436/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/log
+       32768   0%   40.87kB/s    0:19:10    12615680  26%   11.52MB/s    0:00:02    47035523 100%   32.89MB/s    0:00:01 (xfer#256, to-check=435/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/Apps/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/Apps/ana_drag.h
+        7349 100%   21.55kB/s    0:00:00        7349 100%   21.49kB/s    0:00:00 (xfer#257, to-check=432/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/Apps/ana_srflux.h
+       10947 100%   30.20kB/s    0:00:00       10947 100%   30.20kB/s    0:00:00 (xfer#258, to-check=431/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/Apps/norsed_1km.h
+        2690 100%    7.06kB/s    0:00:00        2690 100%    7.06kB/s    0:00:00 (xfer#259, to-check=430/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/Apps/norsed_1km.h_meso
+        4329 100%    9.13kB/s    0:00:00        4329 100%    9.13kB/s    0:00:00 (xfer#260, to-check=429/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/Apps/norsed_1km.h_mesoNoTides
+        4327 100%    7.51kB/s    0:00:00        4327 100%    7.51kB/s    0:00:00 (xfer#261, to-check=428/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/Apps/norsed_1km.h_tidesOnly
+        2690 100%    4.56kB/s    0:00:00        2690 100%    4.56kB/s    0:00:00 (xfer#262, to-check=427/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/Apps/ocean_norsed_1km.in
+       32768  22%   39.85kB/s    0:00:02      145611 100%  175.12kB/s    0:00:00 (xfer#263, to-check=426/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/Apps/ocean_norsed_1km.in_meso
+       32768  22%   37.69kB/s    0:00:02      145600 100%  166.11kB/s    0:00:00 (xfer#264, to-check=425/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/Apps/ocean_norsed_1km.in_mesoNoTides
+       32768  22%   36.20kB/s    0:00:03      145586 100%  159.57kB/s    0:00:00 (xfer#265, to-check=424/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/Apps/ocean_norsed_1km.in_tidesOnly
+       32768  22%   34.59kB/s    0:00:03      145608 100%  151.59kB/s    0:00:00 (xfer#266, to-check=423/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/Apps/runROMS.bash
+       23604 100%   23.89kB/s    0:00:00       23604 100%   23.89kB/s    0:00:00 (xfer#267, to-check=422/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/log
+       32768   0%   31.65kB/s    0:24:44       65536   0%   63.24kB/s    0:12:22    47035523 100%   31.50MB/s    0:00:01 (xfer#268, to-check=421/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00001.nc
+       32768   0%   70.02kB/s    0:01:45      983040  13%  960.00kB/s    0:00:06     7404228 100%    6.77MB/s    0:00:01 (xfer#269, to-check=420/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00002.nc
+       32768   0%  359.55kB/s    0:00:20     7404228 100%   24.43MB/s    0:00:00 (xfer#270, to-check=419/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00003.nc
+       32768   0%   98.77kB/s    0:01:14     7404228 100%   13.87MB/s    0:00:00 (xfer#271, to-check=418/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00004.nc
+       32768   0%   58.61kB/s    0:02:05     7404228 100%    9.57MB/s    0:00:00 (xfer#272, to-check=417/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00005.nc
+       32768   0%   41.94kB/s    0:02:55     7404228 100%    7.55MB/s    0:00:00 (xfer#273, to-check=416/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00006.nc
+       32768   0%   32.82kB/s    0:03:44       65536   0%   61.07kB/s    0:02:00     7404228 100%    6.19MB/s    0:00:01 (xfer#274, to-check=415/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00007.nc
+       32768   0%  242.42kB/s    0:00:30     7404228 100%   22.21MB/s    0:00:00 (xfer#275, to-check=414/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00008.nc
+       32768   0%   87.43kB/s    0:01:24     7404228 100%    9.23MB/s    0:00:00 (xfer#276, to-check=413/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00009.nc
+       32768   0%   39.70kB/s    0:03:05     7404228 100%    7.21MB/s    0:00:00 (xfer#277, to-check=412/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00010.nc
+       32768   0%   30.68kB/s    0:04:00       65536   0%   57.19kB/s    0:02:08     7404228 100%    5.52MB/s    0:00:01 (xfer#278, to-check=411/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00011.nc
+       32768   0%  166.67kB/s    0:00:44     7404228 100%   18.98MB/s    0:00:00 (xfer#279, to-check=410/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00012.nc
+       32768   0%   81.84kB/s    0:01:30     7404228 100%   12.39MB/s    0:00:00 (xfer#280, to-check=409/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00013.nc
+       32768   0%   50.63kB/s    0:02:25     7404228 100%    8.87MB/s    0:00:00 (xfer#281, to-check=408/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00014.nc
+       32768   0%   38.55kB/s    0:03:11     7404228 100%    7.10MB/s    0:00:00 (xfer#282, to-check=407/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00015.nc
+       32768   0%   31.37kB/s    0:03:54       65536   0%   58.50kB/s    0:02:05     7404228 100%    5.94MB/s    0:00:01 (xfer#283, to-check=406/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00016.nc
+       32768   0%  271.19kB/s    0:00:27     7404228 100%   25.40MB/s    0:00:00 (xfer#284, to-check=405/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00017.nc
+       32768   0%  108.84kB/s    0:01:07     7404228 100%   14.65MB/s    0:00:00 (xfer#285, to-check=404/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00018.nc
+       32768   0%   62.26kB/s    0:01:58     7404228 100%   10.20MB/s    0:00:00 (xfer#286, to-check=403/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00019.nc
+       32768   0%   39.70kB/s    0:03:05     7404228 100%    7.71MB/s    0:00:00 (xfer#287, to-check=402/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00020.nc
+       32768   0%   33.44kB/s    0:03:40       65536   0%   62.14kB/s    0:01:58     7404228 100%    6.15MB/s    0:00:01 (xfer#288, to-check=401/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00021.nc
+       32768   0%  192.77kB/s    0:00:38     7404228 100%   20.71MB/s    0:00:00 (xfer#289, to-check=400/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00022.nc
+       32768   0%   76.74kB/s    0:01:36     7404228 100%   14.04MB/s    0:00:00 (xfer#290, to-check=399/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00023.nc
+       32768   0%   61.30kB/s    0:02:00     7404228 100%   10.43MB/s    0:00:00 (xfer#291, to-check=398/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00024.nc
+       32768   0%   46.99kB/s    0:02:36     7404228 100%    8.54MB/s    0:00:00 (xfer#292, to-check=397/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00025.nc
+       32768   0%   34.63kB/s    0:03:32      294912   3%  277.99kB/s    0:00:25     7404228 100%    6.50MB/s    0:00:01 (xfer#293, to-check=396/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00026.nc
+       32768   0%  367.82kB/s    0:00:20     7404228 100%   26.45MB/s    0:00:00 (xfer#294, to-check=395/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00027.nc
+       32768   0%   90.40kB/s    0:01:21     7404228 100%   14.04MB/s    0:00:00 (xfer#295, to-check=394/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00028.nc
+       32768   0%   53.60kB/s    0:02:17     7404228 100%    9.23MB/s    0:00:00 (xfer#296, to-check=393/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00029.nc
+       32768   0%   40.40kB/s    0:03:02     7404228 100%    7.21MB/s    0:00:00 (xfer#297, to-check=392/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00030.nc
+       32768   0%   31.28kB/s    0:03:55       65536   0%   58.34kB/s    0:02:05     7404228 100%    5.87MB/s    0:00:01 (xfer#298, to-check=391/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his2_00031.nc
+       32768   0%  293.58kB/s    0:00:25     7404228 100%   28.47MB/s    0:00:00 (xfer#299, to-check=390/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00001.nc
+       32768   0%  111.11kB/s    0:46:18    63111168  20%   60.19MB/s    0:00:03   307560448  99%  146.73MB/s    0:00:00   308765656 100%  147.08MB/s    0:00:02 (xfer#300, to-check=389/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00002.nc
+       32768   0%  421.05kB/s    0:12:13       65536   0%   20.98kB/s    4:05:16   110166016  35%   25.94MB/s    0:00:07   308765656 100%   60.38MB/s    0:00:04 (xfer#301, to-check=388/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00003.nc
+       32768   0%    0.00kB/s    0:00:00   132415488  42%  126.25MB/s    0:00:01   308765656 100%  174.22MB/s    0:00:01 (xfer#302, to-check=387/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00004.nc
+       32768   0%   45.01kB/s    1:54:19       65536   0%   17.25kB/s    4:58:14   104890368  33%   21.24MB/s    0:00:09   308765656 100%   53.88MB/s    0:00:05 (xfer#303, to-check=386/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00005.nc
+       32768   0%   40.71kB/s    2:06:23       65536   0%   16.72kB/s    5:07:44    90177536  29%   17.82MB/s    0:00:11   270860288  87%   44.34MB/s    0:00:00   308765656 100%   49.44MB/s    0:00:05 (xfer#304, to-check=385/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00006.nc
+       32768   0%  186.05kB/s    0:27:39       65536   0%   19.97kB/s    4:17:39   124780544  40%   28.31MB/s    0:00:06   308765656 100%   57.21MB/s    0:00:05 (xfer#305, to-check=384/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00007.nc
+       32768   0%   31.56kB/s    2:43:02       65536   0%   15.82kB/s    5:25:10   115507200  37%   21.84MB/s    0:00:08   308765656 100%   49.74MB/s    0:00:05 (xfer#306, to-check=383/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00008.nc
+       32768   0%   34.82kB/s    2:27:46       65536   0%   16.13kB/s    5:18:54   157351936  50%   30.22MB/s    0:00:04   308765656 100%   51.23MB/s    0:00:05 (xfer#307, to-check=382/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00009.nc
+       32768   0%   38.19kB/s    2:14:44       65536   0%   16.28kB/s    5:16:05   140279808  45%   27.13MB/s    0:00:06   308765656 100%   50.82MB/s    0:00:05 (xfer#308, to-check=381/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00010.nc
+       32768   0%   34.48kB/s    2:29:13       65536   0%   16.09kB/s    5:19:47   132710400  42%   25.43MB/s    0:00:06   308765656 100%   51.78MB/s    0:00:05 (xfer#309, to-check=380/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00011.nc
+       32768   0%   42.95kB/s    1:59:47       65536   0%   17.33kB/s    4:56:57   186843136  60%   37.97MB/s    0:00:03   308765656 100%   56.61MB/s    0:00:05 (xfer#310, to-check=379/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00012.nc
+       32768   0%   56.24kB/s    1:31:29       65536   0%   17.77kB/s    4:49:29   138444800  44%   28.53MB/s    0:00:05   308765656 100%   54.20MB/s    0:00:05 (xfer#311, to-check=378/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00013.nc
+       32768   0%   37.47kB/s    2:17:19       65536   0%   16.76kB/s    5:06:55   151060480  48%   29.91MB/s    0:00:05   308765656 100%   54.45MB/s    0:00:05 (xfer#312, to-check=377/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00014.nc
+       32768   0%   50.00kB/s    1:42:54       65536   0%   17.41kB/s    4:55:30   135364608  43%   27.61MB/s    0:00:06   308765656 100%   53.50MB/s    0:00:05 (xfer#313, to-check=376/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00015.nc
+       32768   0%   36.99kB/s    2:19:05       65536   0%   16.59kB/s    5:10:04   162004992  52%   31.82MB/s    0:00:04   308765656 100%   53.83MB/s    0:00:05 (xfer#314, to-check=375/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00016.nc
+       32768   0%   48.85kB/s    1:45:19       65536   0%   17.51kB/s    4:53:49   125337600  40%   25.68MB/s    0:00:06   308765656 100%   54.02MB/s    0:00:05 (xfer#315, to-check=374/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00017.nc
+       32768   0%   37.87kB/s    2:15:52       65536   0%   16.44kB/s    5:12:57   129826816  42%   25.31MB/s    0:00:06   308765656 100%   51.64MB/s    0:00:05 (xfer#316, to-check=373/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00018.nc
+       32768   0%   37.21kB/s    2:18:17       65536   0%   16.36kB/s    5:14:34   147554304  47%   28.65MB/s    0:00:05   308765656 100%   52.54MB/s    0:00:05 (xfer#317, to-check=372/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00019.nc
+       32768   0%   43.78kB/s    1:57:32       65536   0%   16.72kB/s    5:07:44   139919360  45%   27.64MB/s    0:00:05   308765656 100%   53.77MB/s    0:00:05 (xfer#318, to-check=371/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00020.nc
+       32768   0%   45.52kB/s    1:53:02       65536   0%   17.16kB/s    4:59:46   166395904  53%   33.56MB/s    0:00:04   308765656 100%   55.39MB/s    0:00:05 (xfer#319, to-check=370/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00021.nc
+       32768   0%   50.55kB/s    1:41:47       65536   0%   17.70kB/s    4:50:36   177799168  57%   36.75MB/s    0:00:03   308765656 100%   57.76MB/s    0:00:05 (xfer#320, to-check=369/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00022.nc
+       32768   0%   60.38kB/s    1:25:13       65536   0%   18.19kB/s    4:42:48   149356544  48%   31.53MB/s    0:00:04   308765656 100%   55.76MB/s    0:00:05 (xfer#321, to-check=368/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00023.nc
+       32768   0%   39.07kB/s    2:11:41       65536   0%   16.50kB/s    5:11:45   121634816  39%   23.79MB/s    0:00:07   308765656 100%   51.14MB/s    0:00:05 (xfer#322, to-check=367/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00024.nc
+       32768   0%   34.56kB/s    2:28:53       65536   0%   16.38kB/s    5:14:10   121241600  39%   23.56MB/s    0:00:07   308765656 100%   51.67MB/s    0:00:05 (xfer#323, to-check=366/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00025.nc
+       32768   0%   37.25kB/s    2:18:07       65536   0%   16.58kB/s    5:10:13   132284416  42%   25.97MB/s    0:00:06   308765656 100%   52.14MB/s    0:00:05 (xfer#324, to-check=365/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00026.nc
+       32768   0%   37.91kB/s    2:15:42       65536   0%   16.76kB/s    5:07:00   135430144  43%   26.81MB/s    0:00:06   308765656 100%   53.14MB/s    0:00:05 (xfer#325, to-check=364/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00027.nc
+       32768   0%   28.29kB/s    3:01:51       65536   0%   15.39kB/s    5:34:20   149848064  48%   27.71MB/s    0:00:05   308765656 100%   50.31MB/s    0:00:05 (xfer#326, to-check=363/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00028.nc
+       32768   0%   38.60kB/s    2:13:18       65536   0%   16.81kB/s    5:06:07   160759808  52%   31.89MB/s    0:00:04   308765656 100%   53.41MB/s    0:00:05 (xfer#327, to-check=362/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00029.nc
+       32768   0%   38.79kB/s    2:12:39       65536   0%   16.65kB/s    5:08:56   130220032  42%   25.65MB/s    0:00:06   308765656 100%   51.02MB/s    0:00:05 (xfer#328, to-check=361/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00030.nc
+       32768   0%   32.92kB/s    2:36:17       65536   0%   16.13kB/s    5:18:54   129040384  41%   24.78MB/s    0:00:07   308765656 100%   51.74MB/s    0:00:05 (xfer#329, to-check=360/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_his_00031.nc
+       32768   0%   42.16kB/s    2:02:02       65536   0%   16.94kB/s    5:03:42    98107392  31%   19.59MB/s    0:00:10   308765656 100%   51.04MB/s    0:00:05 (xfer#330, to-check=359/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/norse_rst.nc
+       32768   0%   30.77kB/s   18:31:32       65536   0%   15.70kB/s   36:18:09   153157632   7%   28.78MB/s    0:01:04   381452288  18%   59.89MB/s    0:00:27   606601216  29%   81.79MB/s    0:00:17   871956480  42%  208.03MB/s    0:00:05  1113849856  54%  229.22MB/s    0:00:03  1363542016  66%  234.32MB/s    0:00:02  1607106560  78%  238.72MB/s    0:00:01  1854898176  90%  234.53MB/s    0:00:00  2052109400 100%  152.49MB/s    0:00:12 (xfer#331, to-check=358/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_noForcing_GLS/netcdfOutput/ocean_norsed_1km.in
+       32768  22%    0.00kB/s    0:00:00      145611 100%    8.28MB/s    0:00:00 (xfer#332, to-check=357/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/NORSEd.sbat
+         596 100%   20.07kB/s    0:00:00         596 100%   20.07kB/s    0:00:00 (xfer#333, to-check=356/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/NORSEd_1km.nc
+       32768   0%  484.85kB/s    0:00:57    27832788 100%   63.35MB/s    0:00:00 (xfer#334, to-check=355/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/coawstROMSonly
+       32768   0%   69.26kB/s    0:01:37     6755176 100%    7.73MB/s    0:00:00 (xfer#335, to-check=354/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/log
+       32768  34%   37.51kB/s    0:00:01       95360 100%  101.00kB/s    0:00:00 (xfer#336, to-check=353/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/roms.439881
+         179 100%    0.17kB/s    0:00:00         179 100%    0.17kB/s    0:00:01 (xfer#337, to-check=352/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/Apps/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/Apps/ana_drag.h
+        7349 100%    6.77kB/s    0:00:00        7349 100%    6.77kB/s    0:00:01 (xfer#338, to-check=347/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/Apps/ana_srflux.h
+       10947 100%    9.67kB/s    0:00:00       10947 100%    9.67kB/s    0:00:01 (xfer#339, to-check=346/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/Apps/norsed_1km.h
+        2691 100%    2.35kB/s    0:00:00        2691 100%    2.35kB/s    0:00:01 (xfer#340, to-check=345/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/Apps/norsed_1km.h_meso
+        4329 100%    3.73kB/s    0:00:00        4329 100%    3.73kB/s    0:00:01 (xfer#341, to-check=344/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/Apps/norsed_1km.h_mesoNoTides
+        4327 100%    3.69kB/s    0:00:00        4327 100%    3.69kB/s    0:00:01 (xfer#342, to-check=343/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/Apps/norsed_1km.h_tidesOnly
+        2691 100%    2.27kB/s    0:00:00        2691 100%    2.27kB/s    0:00:01 (xfer#343, to-check=342/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/Apps/ocean_norsed_1km.in
+       32768  22%   26.62kB/s    0:00:04       65536  45%   43.78kB/s    0:00:01      145609 100%   97.20kB/s    0:00:01 (xfer#344, to-check=341/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/Apps/ocean_norsed_1km.in_meso
+       32768  22%  524.59kB/s    0:00:00      145600 100%    1.98MB/s    0:00:00 (xfer#345, to-check=340/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/Apps/ocean_norsed_1km.in_mesoNoTides
+       32768  22%  326.53kB/s    0:00:00      145586 100%    1.32MB/s    0:00:00 (xfer#346, to-check=339/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/Apps/ocean_norsed_1km.in_tidesOnly
+       32768  22%  160.80kB/s    0:00:00      145621 100%  687.00kB/s    0:00:00 (xfer#347, to-check=338/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/Apps/runROMS.bash
+       23604 100%  102.45kB/s    0:00:00       23604 100%  102.45kB/s    0:00:00 (xfer#348, to-check=337/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/tideComparison_K1.m
+       20990 100%   79.14kB/s    0:00:00       20990 100%   79.14kB/s    0:00:00 (xfer#349, to-check=336/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/tideComparison_M2.m
+       20991 100%   72.69kB/s    0:00:00       20991 100%   72.69kB/s    0:00:00 (xfer#350, to-check=335/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/tideComparison_O1.m
+       20991 100%   62.88kB/s    0:00:00       20991 100%   62.88kB/s    0:00:00 (xfer#351, to-check=334/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/tideComparison_S2.m
+       20990 100%   59.24kB/s    0:00:00       20990 100%   59.24kB/s    0:00:00 (xfer#352, to-check=333/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/figures/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/figures/Ubar_K1tides.jpg
+       32768  45%   86.49kB/s    0:00:00       71505 100%  188.22kB/s    0:00:00 (xfer#353, to-check=331/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/figures/Ubar_M2tides.jpg
+       32768  42%   77.67kB/s    0:00:00       77600 100%  181.73kB/s    0:00:00 (xfer#354, to-check=330/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/figures/Ubar_O1tides.jpg
+       32768  44%   73.39kB/s    0:00:00       72993 100%  161.27kB/s    0:00:00 (xfer#355, to-check=329/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/figures/Ubar_S2tides.jpg
+       32768  46%   67.65kB/s    0:00:00       70839 100%  144.42kB/s    0:00:00 (xfer#356, to-check=328/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/figures/Vbar_K1tides.jpg
+       32768  46%   63.62kB/s    0:00:00       70762 100%  135.76kB/s    0:00:00 (xfer#357, to-check=327/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/figures/Vbar_M2tides.jpg
+       32768  46%   60.26kB/s    0:00:00       70740 100%  128.64kB/s    0:00:00 (xfer#358, to-check=326/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/figures/Vbar_O1tides.jpg
+       32768  45%   58.18kB/s    0:00:00       72104 100%  126.64kB/s    0:00:00 (xfer#359, to-check=325/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/figures/Vbar_S2tides.jpg
+       32768  49%   55.08kB/s    0:00:00       66602 100%  110.80kB/s    0:00:00 (xfer#360, to-check=324/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/figures/Zeta_K1tides.jpg
+       32768  54%   52.46kB/s    0:00:00       59660 100%   94.58kB/s    0:00:00 (xfer#361, to-check=323/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/figures/Zeta_M2tides.jpg
+       32768  57%   49.92kB/s    0:00:00       56704 100%   85.59kB/s    0:00:00 (xfer#362, to-check=322/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/figures/Zeta_O1tides.jpg
+       32768  57%   48.19kB/s    0:00:00       57450 100%   83.86kB/s    0:00:00 (xfer#363, to-check=321/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/TPXOstuff/figures/Zeta_S2tides.jpg
+       32768  55%   46.92kB/s    0:00:00       59143 100%   84.56kB/s    0:00:00 (xfer#364, to-check=320/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput/norse_his2_00001.nc
+       32768   0%   44.08kB/s    0:01:18     3496544 100%    4.20MB/s    0:00:00 (xfer#365, to-check=319/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput/norse_his_00001.nc
+       32768   0%   37.87kB/s    0:38:16    11796480  13%   11.25MB/s    0:00:06    87005528 100%   53.95MB/s    0:00:01 (xfer#366, to-check=318/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput/norse_rst.nc
+       24756 100%   43.40kB/s    0:00:00       24756 100%   43.40kB/s    0:00:00 (xfer#367, to-check=317/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/log
+       32768   0%   22.55kB/s    0:34:48       65536   0%   45.07kB/s    0:17:24    47141913 100%   22.71MB/s    0:00:01 (xfer#368, to-check=316/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_-12.3155_-1.6845_68.4556_73.2942_4_K1.mat
+       32768   0%   52.72kB/s    0:21:43       65536   0%   59.59kB/s    0:19:12    68734201 100%   39.78MB/s    0:00:01 (xfer#369, to-check=315/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_-12.3155_-1.6845_68.4556_73.2942_4_M2.mat
+       32768   0%   51.28kB/s    0:22:19       65536   0%   48.56kB/s    0:23:33    68722302 100%   31.51MB/s    0:00:02 (xfer#370, to-check=314/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_-12.3155_-1.6845_68.4556_73.2942_4_O1.mat
+       32768   0%   40.05kB/s    0:28:35       65536   0%   43.60kB/s    0:26:14    68725778 100%   27.69MB/s    0:00:02 (xfer#371, to-check=313/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_-12.3155_-1.6845_68.4556_73.2942_4_S2.mat
+       32768   0%   33.65kB/s    0:34:01       65536   0%   38.81kB/s    0:29:29    68729005 100%   25.87MB/s    0:00:02 (xfer#372, to-check=312/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00001.nc
+       32768   0%   32.42kB/s    0:44:40       65536   0%   38.76kB/s    0:37:21    86941184 100%   33.29MB/s    0:00:02 (xfer#373, to-check=311/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00002.nc
+       32768   0%   36.00kB/s    0:38:37       65536   0%   36.80kB/s    0:37:46    83464324 100%   30.46MB/s    0:00:02 (xfer#374, to-check=310/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00003.nc
+       32768   0%   35.24kB/s    0:39:27       65536   0%   37.21kB/s    0:37:21    83464324 100%   32.11MB/s    0:00:02 (xfer#375, to-check=309/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00004.nc
+       32768   0%   39.46kB/s    0:35:14       65536   0%   39.48kB/s    0:35:12    83464324 100%   31.01MB/s    0:00:02 (xfer#376, to-check=308/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00005.nc
+       32768   0%   32.55kB/s    0:42:42       65536   0%   35.69kB/s    0:38:56    83464324 100%   30.64MB/s    0:00:02 (xfer#377, to-check=307/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00006.nc
+       32768   0%   38.00kB/s    0:36:35       65536   0%   38.58kB/s    0:36:01    83464324 100%   32.23MB/s    0:00:02 (xfer#378, to-check=306/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00007.nc
+       32768   0%   37.43kB/s    0:37:09       65536   0%   37.71kB/s    0:36:51    83464324 100%   32.97MB/s    0:00:02 (xfer#379, to-check=305/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00008.nc
+       32768   0%   43.18kB/s    0:32:11       65536   0%   41.32kB/s    0:33:38    83464324 100%   34.27MB/s    0:00:02 (xfer#380, to-check=304/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00009.nc
+       32768   0%   39.75kB/s    0:34:58       65536   0%   39.38kB/s    0:35:17    83464324 100%   33.49MB/s    0:00:02 (xfer#381, to-check=303/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00010.nc
+       32768   0%   40.46kB/s    0:34:22       65536   0%   39.00kB/s    0:35:38    83464324 100%   33.44MB/s    0:00:02 (xfer#382, to-check=302/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00011.nc
+       32768   0%   42.11kB/s    0:33:01       65536   0%   40.33kB/s    0:34:28    83464324 100%   33.28MB/s    0:00:02 (xfer#383, to-check=301/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00012.nc
+       32768   0%   38.00kB/s    0:36:35       65536   0%   38.88kB/s    0:35:44    73433088  87%   26.47MB/s    0:00:00    83464324 100%   29.52MB/s    0:00:02 (xfer#384, to-check=300/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00013.nc
+       32768   0%  336.84kB/s    0:04:07     4227072   5%    3.99MB/s    0:00:19    83464324 100%   42.91MB/s    0:00:01 (xfer#385, to-check=299/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00014.nc
+       32768   0%   36.04kB/s    0:38:35       65536   0%   37.32kB/s    0:37:14    83464324 100%   30.51MB/s    0:00:02 (xfer#386, to-check=298/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00015.nc
+       32768   0%   34.37kB/s    0:40:27       65536   0%   36.70kB/s    0:37:52    83464324 100%   31.24MB/s    0:00:02 (xfer#387, to-check=297/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00016.nc
+       32768   0%   37.56kB/s    0:37:01       65536   0%   38.53kB/s    0:36:04    65961984  79%   23.65MB/s    0:00:00    83464324 100%   28.83MB/s    0:00:02 (xfer#388, to-check=296/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00017.nc
+       32768   0%   94.67kB/s    0:14:41       65536   0%   56.59kB/s    0:24:33    58753024  70%   26.23MB/s    0:00:00    83464324 100%   34.02MB/s    0:00:02 (xfer#389, to-check=295/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00018.nc
+       32768   0%  121.21kB/s    0:11:28       65536   0%   59.42kB/s    0:23:23    83464324 100%   40.99MB/s    0:00:01 (xfer#390, to-check=294/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00019.nc
+       32768   0%   35.52kB/s    0:39:09       65536   0%   36.74kB/s    0:37:50    83464324 100%   29.72MB/s    0:00:02 (xfer#391, to-check=293/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00020.nc
+       32768   0%   33.51kB/s    0:41:29       65536   0%   35.34kB/s    0:39:19    83464324 100%   30.76MB/s    0:00:02 (xfer#392, to-check=292/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00021.nc
+       32768   0%   39.22kB/s    0:35:27       65536   0%   38.25kB/s    0:36:20    83464324 100%   31.26MB/s    0:00:02 (xfer#393, to-check=291/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00022.nc
+       32768   0%   35.20kB/s    0:39:29       65536   0%   36.06kB/s    0:38:33    83464324 100%   30.32MB/s    0:00:02 (xfer#394, to-check=290/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00023.nc
+       32768   0%   36.61kB/s    0:37:58       65536   0%   37.17kB/s    0:37:23    83464324 100%   31.28MB/s    0:00:02 (xfer#395, to-check=289/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00024.nc
+       32768   0%   35.75kB/s    0:38:53       65536   0%   37.04kB/s    0:37:31    83464324 100%   29.96MB/s    0:00:02 (xfer#396, to-check=288/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00025.nc
+       32768   0%   31.40kB/s    0:44:16       65536   0%   34.84kB/s    0:39:53    82870272  99%   27.87MB/s    0:00:00    83464324 100%   28.04MB/s    0:00:02 (xfer#397, to-check=287/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00026.nc
+       32768   0%  444.44kB/s    0:03:07     4227072   5%    3.99MB/s    0:00:19    83464324 100%   43.81MB/s    0:00:01 (xfer#398, to-check=286/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00027.nc
+       32768   0%   34.78kB/s    0:39:58       65536   0%   36.97kB/s    0:37:35    83464324 100%   31.28MB/s    0:00:02 (xfer#399, to-check=285/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00028.nc
+       32768   0%   37.69kB/s    0:36:53       65536   0%   37.80kB/s    0:36:46    83464324 100%   31.44MB/s    0:00:02 (xfer#400, to-check=284/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00029.nc
+       32768   0%   33.26kB/s    0:41:48       65536   0%   35.98kB/s    0:38:38    83464324 100%   29.45MB/s    0:00:02 (xfer#401, to-check=283/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his2_00030.nc
+       32768   0%   33.13kB/s    0:41:58       65536   0%   35.69kB/s    0:38:56    83464324 100%   29.45MB/s    0:00:02 (xfer#402, to-check=282/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00001.nc
+       32768   0%   33.65kB/s   17:57:08       65536   0%   35.96kB/s   16:48:01   159711232   7%   54.79MB/s    0:00:35   411074560  18%  103.68MB/s    0:00:16   665976832  30%  132.84MB/s    0:00:11   905510912  41%  215.88MB/s    0:00:05  1171980288  53%  241.40MB/s    0:00:04  1431371776  65%  243.44MB/s    0:00:02  1663205376  76%  237.94MB/s    0:00:02  1919680512  88%  241.98MB/s    0:00:01  2166489088  99%  237.29MB/s    0:00:00  2174698520 100%  191.94MB/s    0:00:10 (xfer#403, to-check=281/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00002.nc
+       32768   0%  264.46kB/s    2:11:34       65536   0%    2.98kB/s  194:21:27   176193536   8%    7.48MB/s    0:04:09   377520128  18%   15.35MB/s    0:01:48   586121216  28%   22.86MB/s    0:01:04   818380800  39%  195.00MB/s    0:00:06  1070104576  51%  213.18MB/s    0:00:04  1283489792  61%  215.95MB/s    0:00:03  1487241216  71%  214.79MB/s    0:00:02  1727791104  82%  216.77MB/s    0:00:01  1991835648  95%  219.70MB/s    0:00:00  2087711312 100%   64.50MB/s    0:00:30 (xfer#404, to-check=280/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00003.nc
+       32768   0%   67.94kB/s    8:32:08       65536   0%    3.02kB/s  192:03:54    92307456   4%    3.97MB/s    0:08:11   264011776  12%   10.85MB/s    0:02:44   509870080  24%   20.10MB/s    0:01:16   721223680  34%  171.98MB/s    0:00:07   972390400  46%  209.99MB/s    0:00:05  1207861248  57%  225.20MB/s    0:00:03  1467383808  70%  228.46MB/s    0:00:02  1726218240  82%  239.79MB/s    0:00:01  1985478656  95%  241.72MB/s    0:00:00  2087711312 100%   65.02MB/s    0:00:30 (xfer#405, to-check=279/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00004.nc
+       32768   0%   66.53kB/s    8:43:00       65536   0%    3.06kB/s  189:30:36    28704768   1%    1.25MB/s    0:26:49   138346496   6%    5.76MB/s    0:05:30   327188480  15%   13.03MB/s    0:02:11   519405568  24%  122.84MB/s    0:00:12   671121408  32%  147.70MB/s    0:00:09   889815040  42%  172.77MB/s    0:00:06  1063321600  50%  170.73MB/s    0:00:05  1202683904  57%  158.47MB/s    0:00:05  1342210048  64%  157.09MB/s    0:00:04  1472233472  70%  115.19MB/s    0:00:05  1551925248  74%   96.59MB/s    0:00:05  1752137728  83%  108.62MB/s    0:00:03  1980727296  94%  128.31MB/s    0:00:00  2087711312 100%   56.45MB/s    0:00:35 (xfer#406, to-check=278/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00005.nc
+       32768   0%   72.89kB/s    7:57:20       65536   0%    3.12kB/s  185:34:06   127074304   6%    5.64MB/s    0:05:39   346095616  16%   14.68MB/s    0:01:55   578846720  27%   23.51MB/s    0:01:02   808157184  38%  192.66MB/s    0:00:06  1038647296  49%  217.28MB/s    0:00:04  1301381120  62%  227.76MB/s    0:00:03  1531478016  73%  227.30MB/s    0:00:02  1739194368  83%  222.14MB/s    0:00:01  1981186048  94%  224.89MB/s    0:00:00  2087711312 100%   66.69MB/s    0:00:29 (xfer#407, to-check=277/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00006.nc
+       32768   0%   74.94kB/s    7:44:17       65536   0%    3.09kB/s  187:28:16   114950144   5%    5.05MB/s    0:06:21   349208576  16%   14.68MB/s    0:01:55   593788928  28%   23.91MB/s    0:01:01   817168384  39%  194.96MB/s    0:00:06  1069678592  51%  227.80MB/s    0:00:04  1289486336  61%  224.35MB/s    0:00:03  1535148032  73%  224.49MB/s    0:00:02  1796964352  86%  233.66MB/s    0:00:01  2069004288  99%  238.38MB/s    0:00:00  2087711312 100%   66.93MB/s    0:00:29 (xfer#408, to-check=276/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00007.nc
+       32768   0%  220.69kB/s    2:37:39       65536   0%    3.10kB/s  186:51:18   105512960   5%    4.65MB/s    0:06:55   336986112  16%   14.21MB/s    0:02:00   574914560  27%   23.21MB/s    0:01:03   844398592  40%  201.46MB/s    0:00:06  1097793536  52%  236.76MB/s    0:00:04  1354596352  64%  242.80MB/s    0:00:02  1585152000  75%  241.04MB/s    0:00:02  1847623680  88%  239.37MB/s    0:00:00  2087711312 100%   67.32MB/s    0:00:29 (xfer#409, to-check=275/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00008.nc
+       32768   0%   31.90kB/s   18:10:35       65536   0%    2.97kB/s  194:58:58   142639104   6%    6.04MB/s    0:05:14   387448832  18%   15.71MB/s    0:01:45   614137856  29%   23.88MB/s    0:01:00   870678528  41%  207.47MB/s    0:00:05  1065385984  51%  220.11MB/s    0:00:04  1316028416  63%  221.50MB/s    0:00:03  1542815744  73%  221.52MB/s    0:00:02  1808564224  86%  223.72MB/s    0:00:01  2081456128  99%  242.43MB/s    0:00:00  2087711312 100%   65.19MB/s    0:00:30 (xfer#410, to-check=274/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00009.nc
+       32768   0%  385.54kB/s    1:30:14       65536   0%    3.13kB/s  185:09:38   123830272   5%    5.51MB/s    0:05:48   354123776  16%   15.05MB/s    0:01:52   610729984  29%   24.86MB/s    0:00:58   868417536  41%  207.19MB/s    0:00:05  1001455616  47%  209.40MB/s    0:00:05  1242890240  59%  212.06MB/s    0:00:03  1452113920  69%  200.75MB/s    0:00:03  1715077120  82%  202.01MB/s    0:00:01  1963524096  94%  229.55MB/s    0:00:00  2087711312 100%   66.43MB/s    0:00:29 (xfer#411, to-check=273/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00010.nc
+       32768   0%   53.51kB/s   10:50:13       65536   0%    3.06kB/s  189:21:21   168427520   8%    7.34MB/s    0:04:15   376569856  18%   15.69MB/s    0:01:46   618528768  29%   24.69MB/s    0:00:58   829784064  39%  197.97MB/s    0:00:06  1068171264  51%  214.68MB/s    0:00:04  1343160320  64%  230.63MB/s    0:00:03  1613692928  77%  237.44MB/s    0:00:01  1884651520  90%  251.69MB/s    0:00:00  2087711312 100%   67.21MB/s    0:00:29 (xfer#412, to-check=272/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00011.nc
+       32768   0%   40.82kB/s   14:12:28       65536   0%    3.08kB/s  188:28:37   175996928   8%    7.70MB/s    0:04:02   444530688  21%   18.59MB/s    0:01:26   645791744  30%   25.88MB/s    0:00:54   869564416  41%  207.46MB/s    0:00:05  1073446912  51%  214.13MB/s    0:00:04  1284505600  61%  200.42MB/s    0:00:03  1549697024  74%  215.67MB/s    0:00:02  1818656768  87%  226.45MB/s    0:00:01  2087711312 100%   66.86MB/s    0:00:29 (xfer#413, to-check=271/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00012.nc
+       32768   0%   30.95kB/s   18:44:18       65536   0%    2.88kB/s  201:10:49   170393600   8%    7.00MB/s    0:04:27   412155904  19%   16.24MB/s    0:01:40   622526464  29%   23.56MB/s    0:01:00   864256000  41%  206.19MB/s    0:00:05  1078427648  51%  216.65MB/s    0:00:04  1327005696  63%  218.28MB/s    0:00:03  1574993920  75%  227.26MB/s    0:00:02  1820360704  87%  228.01MB/s    0:00:01  2082799616  99%  239.52MB/s    0:00:00  2087711312 100%   63.76MB/s    0:00:31 (xfer#414, to-check=270/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00013.nc
+       32768   0%  355.56kB/s    1:37:51       65536   0%    3.16kB/s  183:35:02    92700672   4%    4.16MB/s    0:07:48   307298304  14%   13.17MB/s    0:02:12   551190528  26%   22.60MB/s    0:01:06   730497024  34%  174.28MB/s    0:00:07   979173376  46%  211.51MB/s    0:00:05  1178763264  56%  207.93MB/s    0:00:04  1385627648  66%  199.09MB/s    0:00:03  1634238464  78%  215.63MB/s    0:00:02  1839235072  88%  205.21MB/s    0:00:01  2040299520  97%  205.56MB/s    0:00:00  2087711312 100%   65.36MB/s    0:00:30 (xfer#415, to-check=269/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00014.nc
+       32768   0%  121.67kB/s    4:45:58       65536   0%    3.12kB/s  185:52:03    86704128   4%    3.84MB/s    0:08:28   273776640  13%   11.60MB/s    0:02:32   504168448  24%   20.45MB/s    0:01:15   742981632  35%  177.26MB/s    0:00:07   993591296  47%  216.38MB/s    0:00:04  1217462272  58%  225.16MB/s    0:00:03  1480425472  70%  232.93MB/s    0:00:02  1737687040  83%  237.33MB/s    0:00:01  1929609216  92%  223.33MB/s    0:00:00  2087711312 100%   66.12MB/s    0:00:30 (xfer#416, to-check=268/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00015.nc
+       32768   0%   47.62kB/s   12:10:41       65536   0%    3.02kB/s  192:04:27   112263168   5%    4.82MB/s    0:06:39   349667328  16%   14.38MB/s    0:01:58   558628864  26%   22.02MB/s    0:01:07   816349184  39%  194.76MB/s    0:00:06  1062764544  50%  226.79MB/s    0:00:04  1314816000  62%  230.28MB/s    0:00:03  1562181632  74%  239.45MB/s    0:00:02  1815150592  86%  238.31MB/s    0:00:01  2056519680  98%  237.11MB/s    0:00:00  2087711312 100%   65.66MB/s    0:00:30 (xfer#417, to-check=267/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00016.nc
+       32768   0%  191.62kB/s    3:01:35       65536   0%    3.16kB/s  183:14:23   109084672   5%    4.90MB/s    0:06:34   337608704  16%   14.49MB/s    0:01:57   596803584  28%   24.51MB/s    0:00:59   817430528  39%  195.02MB/s    0:00:06  1061978112  50%  227.36MB/s    0:00:04  1309540352  62%  231.90MB/s    0:00:03  1560674304  74%  229.98MB/s    0:00:02  1801912320  86%  234.89MB/s    0:00:01  2047442944  98%  235.13MB/s    0:00:00  2087711312 100%   67.83MB/s    0:00:29 (xfer#418, to-check=266/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00017.nc
+       32768   0%  159.20kB/s    3:38:33       65536   0%    3.17kB/s  182:46:39    88670208   4%    3.99MB/s    0:08:08   271581184  13%   11.68MB/s    0:02:31   477855744  22%   19.67MB/s    0:01:19   708050944  33%  168.92MB/s    0:00:07   875003904  41%  187.62MB/s    0:00:06  1100906496  52%  197.87MB/s    0:00:04  1350598656  64%  208.18MB/s    0:00:03  1619951616  77%  217.52MB/s    0:00:02  1887469568  90%  241.33MB/s    0:00:00  2087711312 100%   66.19MB/s    0:00:30 (xfer#419, to-check=265/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00018.nc
+       32768   0%   31.97kB/s   18:08:25       65536   0%    2.98kB/s  194:22:00   159416320   7%    6.77MB/s    0:04:38   370245632  17%   15.05MB/s    0:01:51   607584256  29%   23.69MB/s    0:01:01   827457536  39%  197.22MB/s    0:00:06  1065385984  51%  216.16MB/s    0:00:04  1288175616  61%  219.02MB/s    0:00:03  1480130560  70%  208.19MB/s    0:00:02  1751744512  83%  220.53MB/s    0:00:01  2012413952  96%  225.96MB/s    0:00:00  2087711312 100%   64.69MB/s    0:00:30 (xfer#420, to-check=264/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00019.nc
+       32768   0%   82.90kB/s    6:59:42       65536   0%    3.08kB/s  188:12:18   118816768   5%    5.20MB/s    0:06:09   317652992  15%   13.30MB/s    0:02:09   545292288  26%   21.88MB/s    0:01:08   803209216  38%  191.58MB/s    0:00:06   991330304  47%  208.13MB/s    0:00:05  1221394432  58%  215.58MB/s    0:00:03  1484718080  71%  224.14MB/s    0:00:02  1751580672  83%  226.28MB/s    0:00:01  1989115904  95%  238.07MB/s    0:00:00  2087711312 100%   65.84MB/s    0:00:30 (xfer#421, to-check=263/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00020.nc
+       32768   0%   60.95kB/s    9:30:50       65536   0%    2.79kB/s  208:07:16    95977472   4%    3.82MB/s    0:08:29   338886656  16%   12.94MB/s    0:02:11   605356032  28%   22.23MB/s    0:01:05   806060032  38%  192.31MB/s    0:00:06  1031831552  49%  223.24MB/s    0:00:04  1222344704  58%  210.74MB/s    0:00:04  1477771264  70%  208.10MB/s    0:00:02  1723564032  82%  218.86MB/s    0:00:01  1912635392  91%  202.70MB/s    0:00:00  2056519680  98%  191.97MB/s    0:00:00  2087711312 100%   59.94MB/s    0:00:33 (xfer#422, to-check=262/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00021.nc
+       32768   0%  190.48kB/s    3:02:40       65536   0%    3.13kB/s  185:01:29   103481344   4%    4.61MB/s    0:07:00   276856832  13%   11.78MB/s    0:02:30   452067328  21%   18.41MB/s    0:01:26   701628416  33%  167.35MB/s    0:00:08   942833664  45%  200.22MB/s    0:00:05  1183416320  56%  216.30MB/s    0:00:04  1433206784  68%  234.10MB/s    0:00:02  1662779392  79%  229.33MB/s    0:00:01  1868988416  89%  220.98MB/s    0:00:00  2087711312 100%   65.77MB/s    0:00:30 (xfer#423, to-check=261/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00022.nc
+       32768   0%   35.48kB/s   16:20:46       65536   0%    3.06kB/s  189:14:17   104890368   5%    4.57MB/s    0:07:03   331710464  15%   13.82MB/s    0:02:04   580190208  27%   23.16MB/s    0:01:03   831291392  39%  198.18MB/s    0:00:06  1067253760  51%  229.62MB/s    0:00:04  1321533440  63%  236.17MB/s    0:00:03  1535148032  73%  227.85MB/s    0:00:02  1791000576  85%  228.98MB/s    0:00:01  2033778688  97%  230.61MB/s    0:00:00  2087711312 100%   66.23MB/s    0:00:30 (xfer#424, to-check=260/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00023.nc
+       32768   0%  129.03kB/s    4:29:39       65536   0%    3.11kB/s  186:29:33   142344192   6%    6.29MB/s    0:05:02   344883200  16%   14.57MB/s    0:01:56   543064064  26%   21.96MB/s    0:01:08   766509056  36%  182.87MB/s    0:00:07   963543040  46%  195.94MB/s    0:00:05  1170571264  56%  197.01MB/s    0:00:04  1349124096  64%  192.32MB/s    0:00:03  1617068032  77%  202.94MB/s    0:00:02  1786707968  85%  196.41MB/s    0:00:01  1990459392  95%  195.62MB/s    0:00:00  2087711312 100%   64.37MB/s    0:00:30 (xfer#425, to-check=259/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00024.nc
+       32768   0%   75.29kB/s    7:42:06       65536   0%    3.07kB/s  188:42:45   142999552   6%    6.25MB/s    0:05:03   378208256  18%   15.80MB/s    0:01:45   633929728  30%   25.38MB/s    0:00:55   863797248  41%  206.08MB/s    0:00:05  1120993280  53%  233.35MB/s    0:00:04  1348435968  64%  231.49MB/s    0:00:03  1580564480  75%  225.86MB/s    0:00:02  1840840704  88%  233.12MB/s    0:00:01  2087711312 100%   66.84MB/s    0:00:29 (xfer#426, to-check=258/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00025.nc
+       32768   0%   29.66kB/s   19:33:13       65536   0%    2.94kB/s  197:08:21   110100480   5%    4.61MB/s    0:06:58   327188480  15%   13.13MB/s    0:02:10   541327360  25%   20.85MB/s    0:01:12   777256960  37%  185.30MB/s    0:00:06  1031340032  49%  219.64MB/s    0:00:04  1272283136  60%  225.50MB/s    0:00:03  1523286016  72%  234.29MB/s    0:00:02  1768423424  84%  236.49MB/s    0:00:01  1968963584  94%  223.71MB/s    0:00:00  2087711312 100%   63.88MB/s    0:00:31 (xfer#427, to-check=257/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00026.nc
+       32768   0%   58.18kB/s    9:58:01       65536   0%    3.07kB/s  188:58:31   116424704   5%    5.08MB/s    0:06:18   318439424  15%   13.29MB/s    0:02:10   593166336  28%   23.72MB/s    0:01:01   858914816  41%  204.92MB/s    0:00:05  1075281920  51%  228.78MB/s    0:00:04  1300267008  62%  231.88MB/s    0:00:03  1491369984  71%  212.13MB/s    0:00:02  1742274560  83%  208.58MB/s    0:00:01  1949597696  93%  206.44MB/s    0:00:00  2087711312 100%   65.07MB/s    0:00:30 (xfer#428, to-check=256/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00027.nc
+       32768   0%   41.45kB/s   13:59:25       65536   0%    2.98kB/s  194:37:13   144801792   6%    6.14MB/s    0:05:08   396722176  19%   16.11MB/s    0:01:42   628883456  30%   24.50MB/s    0:00:58   862912512  41%  205.87MB/s    0:00:05  1092091904  52%  226.02MB/s    0:00:04  1341161472  64%  225.34MB/s    0:00:03  1593311232  76%  230.11MB/s    0:00:02  1831043072  87%  230.99MB/s    0:00:01  2033745920  97%  224.68MB/s    0:00:00  2087711312 100%   64.74MB/s    0:00:30 (xfer#429, to-check=255/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00028.nc
+       32768   0%   96.97kB/s    5:58:49       65536   0%    3.08kB/s  188:25:54   128679936   6%    5.63MB/s    0:05:39   348946432  16%   14.60MB/s    0:01:56   595951616  28%   23.89MB/s    0:01:00   863109120  41%  205.92MB/s    0:00:05  1104871424  52%  232.92MB/s    0:00:04  1362001920  65%  241.71MB/s    0:00:02  1599602688  76%  239.47MB/s    0:00:01  1845788672  88%  234.46MB/s    0:00:01  2087711312 100%   67.05MB/s    0:00:29 (xfer#430, to-check=254/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00029.nc
+       32768   0%   33.93kB/s   17:05:21       65536   0%    3.00kB/s  193:05:53   140115968   6%    5.99MB/s    0:05:17   354287616  16%   14.50MB/s    0:01:56   545292288  26%   21.39MB/s    0:01:10   787939328  37%  187.98MB/s    0:00:06  1048608768  50%  216.71MB/s    0:00:04  1300332544  62%  225.67MB/s    0:00:03  1529348096  73%  234.73MB/s    0:00:02  1772519424  84%  234.86MB/s    0:00:01  2018017280  96%  231.30MB/s    0:00:00  2087711312 100%   65.16MB/s    0:00:30 (xfer#431, to-check=253/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_his_00030.nc
+       32768   0%   96.68kB/s    5:59:54       65536   0%    3.06kB/s  189:43:38   131137536   6%    5.70MB/s    0:05:35   352681984  16%   14.66MB/s    0:01:55   598016000  28%   23.83MB/s    0:01:01   835813376  40%  199.41MB/s    0:00:06  1046544384  50%  218.41MB/s    0:00:04  1251016704  59%  214.34MB/s    0:00:03  1428586496  68%  198.17MB/s    0:00:03  1657241600  79%  195.99MB/s    0:00:02  1903624192  91%  204.50MB/s    0:00:00  2087711312 100%   64.87MB/s    0:00:30 (xfer#432, to-check=252/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_rst.nc
+       32768   0%   39.17kB/s   14:33:12       65536   0%    2.46kB/s  231:34:02   125861888   6%    4.45MB/s    0:07:03   367689728  17%   12.52MB/s    0:02:11   603488256  29%   19.85MB/s    0:01:11   823918592  40%  196.37MB/s    0:00:06  1048870912  51%  220.23MB/s    0:00:04  1305542656  63%  223.77MB/s    0:00:03  1560870912  76%  228.43MB/s    0:00:02  1805811712  87%  234.28MB/s    0:00:01  2046689280  99%  238.08MB/s    0:00:00  2052109636 100%   55.89MB/s    0:00:35 (xfer#433, to-check=251/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_ubar.nc
+       32768   0%  415.58kB/s    0:12:33       65536   0%    2.95kB/s   29:30:27   125435904  40%    5.27MB/s    0:00:34   313119184 100%   12.60MB/s    0:00:23 (xfer#434, to-check=250/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_vbar.nc
+       32768   0%   31.59kB/s    2:45:11       65536   0%   15.47kB/s    5:37:16    78479360  25%   14.57MB/s    0:00:15   313124952 100%   49.32MB/s    0:00:06 (xfer#435, to-check=249/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/norse_zeta.nc
+       32768   0%   32.82kB/s    2:39:28       65536   0%   15.76kB/s    5:32:04   142573568  45%   26.87MB/s    0:00:06   314073748 100%   51.61MB/s    0:00:05 (xfer#436, to-check=248/717)
+NORSEd_1km/Experiments/NORSEd_1km_2021_244_tidesOnly_GLS/netcdfOutput_ORIG/ocean_norsed_1km.in
+       32768  22%    0.00kB/s    0:00:00      145609 100%  107.61MB/s    0:00:00 (xfer#437, to-check=247/717)
+NORSEd_1km/InputFiles/
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/CMEMS_2021_bdry_NORSEd_1km.nc
+       32768   0%  800.00kB/s    0:16:34   112754688  14%  107.53MB/s    0:00:06   356253696  44%  169.96MB/s    0:00:02   567476224  71%  180.52MB/s    0:00:01   795771272 100%  191.50MB/s    0:00:03 (xfer#438, to-check=242/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/make_bdry_file2020.py
+        3024 100%    3.03kB/s    0:00:00        3024 100%    3.03kB/s    0:00:00 (xfer#439, to-check=241/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/make_bdry_file2020_2.py
+        3023 100%    2.96kB/s    0:00:00        3023 100%    2.96kB/s    0:00:00 (xfer#440, to-check=240/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/remap_bdry.py
+        9458 100%    9.13kB/s    0:00:00        9458 100%    9.13kB/s    0:00:01 (xfer#441, to-check=239/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/remap_bdry_uv.py
+       17688 100%   16.64kB/s    0:00:00       17688 100%   16.64kB/s    0:00:01 (xfer#442, to-check=238/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/__pycache__/
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/__pycache__/remap_bdry.cpython-36.pyc
+        4943 100%    0.00kB/s    0:00:00        4943 100%    0.00kB/s    0:00:00 (xfer#443, to-check=235/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/__pycache__/remap_bdry_uv.cpython-36.pyc
+       10275 100%  401.37kB/s    0:00:00       10275 100%  401.37kB/s    0:00:00 (xfer#444, to-check=234/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/CMEMS_2021_244_ic_NORSEd_1km.nc
+       32768   0%  477.61kB/s    0:06:38   108331008  56%  103.31MB/s    0:00:00   190498724 100%  127.58MB/s    0:00:01 (xfer#445, to-check=233/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/GLOBAL_ANALYSIS_FORECAST_PHY_001_024-TDS_2021_243.5_ic_NORSEd_1km.nc
+       32768   0%   65.71kB/s    0:48:18       65536   0%   26.88kB/s    1:58:04   107282432  56%   30.27MB/s    0:00:02   190498724 100%   47.87MB/s    0:00:03 (xfer#446, to-check=232/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/GLOBAL_ANALYSIS_FORECAST_PHY_001_024-TDS_2021_244.5_ic_NORSEd_1km.nc
+       32768   0%   64.39kB/s    0:49:18       65536   0%   26.59kB/s    1:59:22   110985216  58%   31.08MB/s    0:00:02   190498724 100%   48.56MB/s    0:00:03 (xfer#447, to-check=231/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/averageSnapshots.m
+        1472 100%    4.14kB/s    0:00:00        1472 100%    4.14kB/s    0:00:00 (xfer#448, to-check=230/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/make_ic_file.py
+        2384 100%    6.49kB/s    0:00:00        2384 100%    6.49kB/s    0:00:00 (xfer#449, to-check=229/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/make_remap_weights_file.py
+        2818 100%    7.36kB/s    0:00:00        2818 100%    7.36kB/s    0:00:00 (xfer#450, to-check=228/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/remap.py
+        5291 100%   12.04kB/s    0:00:00        5291 100%   12.04kB/s    0:00:00 (xfer#451, to-check=227/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/remap_grid_GLBa0.08_NEP_t.nc
+       32768   0%    0.00kB/s    0:00:00    42201040 100%   86.30MB/s    0:00:00 (xfer#452, to-check=226/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/remap_grid_NORSEd_1km_rho.nc
+       32768   0%   65.31kB/s    0:02:19     3997696  43%    3.81MB/s    0:00:01     9148520 100%    8.46MB/s    0:00:01 (xfer#453, to-check=225/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/remap_grid_NORSEd_1km_u.nc
+       32768   0%  415.58kB/s    0:00:21     9120716 100%   32.10MB/s    0:00:00 (xfer#454, to-check=224/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/remap_grid_NORSEd_1km_v.nc
+       32768   0%  103.56kB/s    0:01:27     9120884 100%   17.50MB/s    0:00:00 (xfer#455, to-check=223/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/remap_uv.py
+        7139 100%   13.62kB/s    0:00:00        7139 100%   13.62kB/s    0:00:00 (xfer#456, to-check=222/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/remap_weights_GLBa0.08_to_NORSEd_1km_bilinear_t_to_rho.nc
+       32768   0%   52.29kB/s    0:21:41    41975808  61%   38.79MB/s    0:00:00    68063260 100%   54.14MB/s    0:00:01 (xfer#457, to-check=221/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/remap_weights_GLBa0.08_to_NORSEd_1km_bilinear_t_to_u.nc
+       32768   0%  162.44kB/s    0:06:58       65536   0%   58.66kB/s    0:19:18    68006416 100%   38.29MB/s    0:00:01 (xfer#458, to-check=220/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/remap_weights_GLBa0.08_to_NORSEd_1km_bilinear_t_to_v.nc
+       32768   0%   49.61kB/s    0:22:50       65536   0%   48.41kB/s    0:23:23    68006424 100%   35.13MB/s    0:00:01 (xfer#459, to-check=219/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/settime.py
+         284 100%    0.51kB/s    0:00:00         284 100%    0.51kB/s    0:00:00 (xfer#460, to-check=218/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/__pycache__/
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/__pycache__/remap.cpython-36.pyc
+        3106 100%    5.48kB/s    0:00:00        3106 100%    5.48kB/s    0:00:00 (xfer#461, to-check=216/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021/ini_244/__pycache__/remap_uv.cpython-36.pyc
+        4622 100%    7.95kB/s    0:00:00        4622 100%    7.95kB/s    0:00:00 (xfer#462, to-check=215/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/CMEMS_2021_bdry_NORSEd_1km.nc_ORIG
+       32768   0%   26.25kB/s    8:25:12       65536   0%   52.46kB/s    4:12:48   130383872  16%   56.04MB/s    0:00:11   370638848  46%  109.84MB/s    0:00:03   609419264  76%  137.82MB/s    0:00:01   795771272 100%  153.53MB/s    0:00:04 (xfer#463, to-check=214/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/Flat_bdry_NORSEd_1km.nc
+       32768   0%   41.56kB/s    5:19:07       65536   0%    7.43kB/s   29:44:44   157253632  19%   15.60MB/s    0:00:39   354582528  44%   31.87MB/s    0:00:13   605618176  76%   49.75MB/s    0:00:03   795771272 100%   61.09MB/s    0:00:12 (xfer#464, to-check=213/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/flattenBdry.m
+        3437 100%    4.09kB/s    0:00:00        3437 100%    4.09kB/s    0:00:00 (xfer#465, to-check=212/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/make_bdry_file2020.py
+        3024 100%    3.54kB/s    0:00:00        3024 100%    3.54kB/s    0:00:00 (xfer#466, to-check=211/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/make_bdry_file2020_2.py
+        3023 100%    3.44kB/s    0:00:00        3023 100%    3.44kB/s    0:00:00 (xfer#467, to-check=210/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/remap_bdry.py
+        9458 100%   10.52kB/s    0:00:00        9458 100%   10.52kB/s    0:00:00 (xfer#468, to-check=209/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/remap_bdry_uv.py
+       17688 100%    0.00kB/s    0:00:00       17688 100%    0.00kB/s    0:00:00 (xfer#469, to-check=208/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/__pycache__/
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/__pycache__/remap_bdry.cpython-36.pyc
+        4943 100%  166.45kB/s    0:00:00        4943 100%  166.45kB/s    0:00:00 (xfer#470, to-check=205/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/__pycache__/remap_bdry_uv.cpython-36.pyc
+       10275 100%  209.05kB/s    0:00:00       10275 100%  209.05kB/s    0:00:00 (xfer#471, to-check=204/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/CMEMS_2021_244_ic_NORSEd_1km.nc_ORIG
+       32768   0%  313.73kB/s    0:10:07   111673344  58%  106.50MB/s    0:00:00   190498724 100%  134.18MB/s    0:00:01 (xfer#472, to-check=203/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/Flat_244.nc
+       32768   0%   81.22kB/s    0:43:17       65536   0%   28.26kB/s    2:04:25   172982272  81%   50.54MB/s    0:00:00   211011884 100%   58.18MB/s    0:00:03 (xfer#473, to-check=202/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/Flat_244.nc_ORIG
+       32768   0%  100.00kB/s    0:35:09       65536   0%   26.08kB/s    2:14:48   134119424  63%   37.04MB/s    0:00:02   211011884 100%   53.89MB/s    0:00:03 (xfer#474, to-check=201/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/Flat_244_ic_NORSEd_1km.nc
+       32768   0%  100.31kB/s    0:31:38       65536   0%   26.76kB/s    1:58:37   131923968  69%   37.10MB/s    0:00:01   190498312 100%   50.48MB/s    0:00:03 (xfer#475, to-check=200/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/averageSnapshots.m
+        1472 100%    6.25kB/s    0:00:00        1472 100%    6.25kB/s    0:00:00 (xfer#476, to-check=199/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/flattenSource.m
+        1339 100%    5.36kB/s    0:00:00        1339 100%    5.36kB/s    0:00:00 (xfer#477, to-check=198/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/make_ic_file.py
+        2283 100%    8.61kB/s    0:00:00        2283 100%    8.61kB/s    0:00:00 (xfer#478, to-check=197/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/make_remap_weights_file.py
+        2818 100%   10.04kB/s    0:00:00        2818 100%   10.04kB/s    0:00:00 (xfer#479, to-check=196/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/remap.py
+        5291 100%   14.31kB/s    0:00:00        5291 100%   14.31kB/s    0:00:00 (xfer#480, to-check=195/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/remap_grid_GLBa0.08_NEP_t.nc
+       32768   0%    0.00kB/s    0:00:00    42201040 100%  110.78MB/s    0:00:00 (xfer#481, to-check=194/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/remap_grid_NORSEd_1km_rho.nc
+       32768   0%   82.47kB/s    0:01:50       65536   0%   63.12kB/s    0:02:23     9148520 100%    7.76MB/s    0:00:01 (xfer#482, to-check=193/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/remap_grid_NORSEd_1km_u.nc
+       32768   0%  246.15kB/s    0:00:36     9120716 100%   26.76MB/s    0:00:00 (xfer#483, to-check=192/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/remap_grid_NORSEd_1km_v.nc
+       32768   0%   86.96kB/s    0:01:44     9120884 100%   14.62MB/s    0:00:00 (xfer#484, to-check=191/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/remap_uv.py
+        7139 100%   11.26kB/s    0:00:00        7139 100%   11.26kB/s    0:00:00 (xfer#485, to-check=190/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/remap_weights_GLBa0.08_to_NORSEd_1km_bilinear_t_to_rho.nc
+       32768   0%   38.98kB/s    0:29:05    15204352  22%   14.50MB/s    0:00:03    68063260 100%   46.33MB/s    0:00:01 (xfer#486, to-check=189/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/remap_weights_GLBa0.08_to_NORSEd_1km_bilinear_t_to_u.nc
+       32768   0%   70.18kB/s    0:16:08       65536   0%   56.04kB/s    0:20:12    68006416 100%   37.25MB/s    0:00:01 (xfer#487, to-check=188/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/remap_weights_GLBa0.08_to_NORSEd_1km_bilinear_t_to_v.nc
+       32768   0%   45.85kB/s    0:24:42       65536   0%   45.33kB/s    0:24:58    68006424 100%   31.35MB/s    0:00:02 (xfer#488, to-check=187/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/settime.py
+         284 100%    0.41kB/s    0:00:00         284 100%    0.41kB/s    0:00:00 (xfer#489, to-check=186/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/__pycache__/
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/__pycache__/remap.cpython-36.pyc
+        3116 100%    4.41kB/s    0:00:00        3116 100%    4.41kB/s    0:00:00 (xfer#490, to-check=184/717)
+NORSEd_1km/InputFiles/BC_IC_CMEMS_2021_tidesOnly/ini_244/__pycache__/remap_uv.cpython-36.pyc
+        4632 100%    6.37kB/s    0:00:00        4632 100%    6.37kB/s    0:00:00 (xfer#491, to-check=183/717)
+NORSEd_1km/InputFiles/Gridpak/
+NORSEd_1km/InputFiles/Gridpak/Makefile
+       11950 100%   15.94kB/s    0:00:00       11950 100%   15.94kB/s    0:00:00 (xfer#492, to-check=182/717)
+NORSEd_1km/InputFiles/Gridpak/NORSEd_1km.nc
+       32768   0%   23.79kB/s    0:19:28       65536   0%   47.44kB/s    0:09:45    27832788 100%   13.88MB/s    0:00:01 (xfer#493, to-check=181/717)
+NORSEd_1km/InputFiles/Gridpak/NORSEd_1km_negLons.nc
+       32768   0%   53.87kB/s    0:08:36     8224768  29%    7.84MB/s    0:00:02    27832788 100%   22.44MB/s    0:00:01 (xfer#494, to-check=180/717)
+NORSEd_1km/InputFiles/Gridpak/NORSEd_1km_posLons.nc
+       32768   0%  141.59kB/s    0:03:16    27832788 100%   34.29MB/s    0:00:00 (xfer#495, to-check=179/717)
+NORSEd_1km/InputFiles/Gridpak/add_Jwtype_map.py
+         945 100%    1.06kB/s    0:00:00         945 100%    1.06kB/s    0:00:00 (xfer#496, to-check=178/717)
+NORSEd_1km/InputFiles/Gridpak/bathsoap
+       32768   1%   35.56kB/s    0:01:00       65536   2%   54.24kB/s    0:00:39     2200744 100%    1.71MB/s    0:00:01 (xfer#497, to-check=177/717)
+NORSEd_1km/InputFiles/Gridpak/bathsuds
+       32768   1%  336.84kB/s    0:00:06     2209288 100%   13.77MB/s    0:00:00 (xfer#498, to-check=176/717)
+NORSEd_1km/InputFiles/Gridpak/bathtub
+       32768   1%  136.17kB/s    0:00:15     2133000 100%    6.67MB/s    0:00:00 (xfer#499, to-check=175/717)
+NORSEd_1km/InputFiles/Gridpak/checkGrid.m
+         862 100%    2.64kB/s    0:00:00         862 100%    2.63kB/s    0:00:00 (xfer#500, to-check=174/717)
+NORSEd_1km/InputFiles/Gridpak/checkTelescoping.m
+         221 100%    0.59kB/s    0:00:00         221 100%    0.59kB/s    0:00:00 (xfer#501, to-check=173/717)
+NORSEd_1km/InputFiles/Gridpak/clean.bash
+          51 100%    0.13kB/s    0:00:00          51 100%    0.13kB/s    0:00:00 (xfer#502, to-check=172/717)
+NORSEd_1km/InputFiles/Gridpak/coast
+       32768   1%   80.00kB/s    0:00:20     1646296 100%    3.24MB/s    0:00:00 (xfer#503, to-check=171/717)
+NORSEd_1km/InputFiles/Gridpak/east.in
+       10890 100%   21.27kB/s    0:00:00       10890 100%   21.27kB/s    0:00:00 (xfer#504, to-check=170/717)
+NORSEd_1km/InputFiles/Gridpak/editmask.py
+         725 100%    1.26kB/s    0:00:00         725 100%    1.26kB/s    0:00:00 (xfer#505, to-check=169/717)
+NORSEd_1km/InputFiles/Gridpak/fort.60
+       12149 100%   20.71kB/s    0:00:00       12149 100%   20.71kB/s    0:00:00 (xfer#506, to-check=168/717)
+NORSEd_1km/InputFiles/Gridpak/fort2sq.bash
+        1534 100%    2.53kB/s    0:00:00        1534 100%    2.53kB/s    0:00:00 (xfer#507, to-check=167/717)
+NORSEd_1km/InputFiles/Gridpak/gmeta
+       32768   0%   51.20kB/s    0:02:03     6348960 100%    8.36MB/s    0:00:00 (xfer#508, to-check=166/717)
+NORSEd_1km/InputFiles/Gridpak/grid
+       32768   1%   42.11kB/s    0:00:54     2336072 100%    2.56MB/s    0:00:00 (xfer#509, to-check=165/717)
+NORSEd_1km/InputFiles/Gridpak/loadModules.txt
+        1250 100%    1.30kB/s    0:00:00        1250 100%    1.30kB/s    0:00:00 (xfer#510, to-check=164/717)
+NORSEd_1km/InputFiles/Gridpak/lonShift.m
+         298 100%    0.31kB/s    0:00:00         298 100%    0.31kB/s    0:00:00 (xfer#511, to-check=163/717)
+NORSEd_1km/InputFiles/Gridpak/lonUnshift.m
+         298 100%    0.30kB/s    0:00:00         298 100%    0.30kB/s    0:00:00 (xfer#512, to-check=162/717)
+NORSEd_1km/InputFiles/Gridpak/makeGrid.m
+        4207 100%    4.15kB/s    0:00:00        4207 100%    4.15kB/s    0:00:00 (xfer#513, to-check=161/717)
+NORSEd_1km/InputFiles/Gridpak/makeGrid.m_OLD
+       11204 100%   10.89kB/s    0:00:00       11204 100%   10.89kB/s    0:00:01 (xfer#514, to-check=160/717)
+NORSEd_1km/InputFiles/Gridpak/makeNegLonsPos.m
+         443 100%    0.42kB/s    0:00:00         443 100%    0.42kB/s    0:00:01 (xfer#515, to-check=159/717)
+NORSEd_1km/InputFiles/Gridpak/makePosLonsNeg.m
+         451 100%    0.42kB/s    0:00:00         451 100%    0.42kB/s    0:00:01 (xfer#516, to-check=158/717)
+NORSEd_1km/InputFiles/Gridpak/mask_change.txt
+       32768  19%   27.44kB/s    0:00:04       65536  39%   53.96kB/s    0:00:01      164677 100%  135.60kB/s    0:00:01 (xfer#517, to-check=157/717)
+NORSEd_1km/InputFiles/Gridpak/north.in
+       10824 100%  188.76kB/s    0:00:00       10824 100%  188.76kB/s    0:00:00 (xfer#518, to-check=156/717)
+NORSEd_1km/InputFiles/Gridpak/south.in
+       10824 100%  137.28kB/s    0:00:00       10824 100%  137.28kB/s    0:00:00 (xfer#519, to-check=155/717)
+NORSEd_1km/InputFiles/Gridpak/sphere
+       32768   1%  301.89kB/s    0:00:07     2247288 100%   16.11MB/s    0:00:00 (xfer#520, to-check=154/717)
+NORSEd_1km/InputFiles/Gridpak/sqgrid.in
+       32768  67%  200.00kB/s    0:00:00       48744 100%  254.55kB/s    0:00:00 (xfer#521, to-check=153/717)
+NORSEd_1km/InputFiles/Gridpak/tempGrid.nc
+       32768   0%  146.12kB/s    0:03:28    30467296 100%   56.31MB/s    0:00:00 (xfer#522, to-check=152/717)
+NORSEd_1km/InputFiles/Gridpak/tolat
+       32768   1%   59.37kB/s    0:00:28     1699296 100%    1.84MB/s    0:00:00 (xfer#523, to-check=151/717)
+NORSEd_1km/InputFiles/Gridpak/west.in
+       10890 100%   11.76kB/s    0:00:00       10890 100%   11.76kB/s    0:00:00 (xfer#524, to-check=150/717)
+NORSEd_1km/InputFiles/Gridpak/Bin/
+NORSEd_1km/InputFiles/Gridpak/Bin/cpp_clean
+         910 100%    0.97kB/s    0:00:00         910 100%    0.97kB/s    0:00:00 (xfer#525, to-check=143/717)
+NORSEd_1km/InputFiles/Gridpak/Bin/sfmakedepend
+       22053 100%   22.43kB/s    0:00:00       22053 100%   22.43kB/s    0:00:00 (xfer#526, to-check=142/717)
+NORSEd_1km/InputFiles/Gridpak/Build/
+NORSEd_1km/InputFiles/Gridpak/Build/MakeDepend
+        3212 100%    3.21kB/s    0:00:00        3212 100%    3.21kB/s    0:00:00 (xfer#527, to-check=141/717)
+NORSEd_1km/InputFiles/Gridpak/Build/bathsoap.f90
+       14594 100%   14.27kB/s    0:00:00       14594 100%   14.27kB/s    0:00:00 (xfer#528, to-check=140/717)
+NORSEd_1km/InputFiles/Gridpak/Build/bathsoap.o
+       32768  42%   31.07kB/s    0:00:01       65536  84%   61.48kB/s    0:00:00       77664 100%   72.86kB/s    0:00:01 (xfer#529, to-check=139/717)
+NORSEd_1km/InputFiles/Gridpak/Build/bathsuds.f90
+       22679 100%    1.08MB/s    0:00:00       22679 100%    1.08MB/s    0:00:00 (xfer#530, to-check=138/717)
+NORSEd_1km/InputFiles/Gridpak/Build/bathsuds.o
+       32768  33%  780.49kB/s    0:00:00       98768 100%    1.88MB/s    0:00:00 (xfer#531, to-check=137/717)
+NORSEd_1km/InputFiles/Gridpak/Build/bathtub.f90
+       16340 100%  257.37kB/s    0:00:00       16340 100%  257.37kB/s    0:00:00 (xfer#532, to-check=136/717)
+NORSEd_1km/InputFiles/Gridpak/Build/bathtub.o
+       32768  52%  301.89kB/s    0:00:00       62088 100%  546.24kB/s    0:00:00 (xfer#533, to-check=135/717)
+NORSEd_1km/InputFiles/Gridpak/Build/blktri.f90
+       32768  67%  233.58kB/s    0:00:00       48724 100%  335.08kB/s    0:00:00 (xfer#534, to-check=134/717)
+NORSEd_1km/InputFiles/Gridpak/Build/blktri.o
+       32768  21%  188.24kB/s    0:00:00      153880 100%  803.60kB/s    0:00:00 (xfer#535, to-check=133/717)
+NORSEd_1km/InputFiles/Gridpak/Build/checkdefs.f90
+        9764 100%   48.65kB/s    0:00:00        9764 100%   48.65kB/s    0:00:00 (xfer#536, to-check=132/717)
+NORSEd_1km/InputFiles/Gridpak/Build/checkdefs.o
+       19728 100%   86.01kB/s    0:00:00       19728 100%   86.01kB/s    0:00:00 (xfer#537, to-check=131/717)
+NORSEd_1km/InputFiles/Gridpak/Build/coast.f90
+        7814 100%   32.06kB/s    0:00:00        7814 100%   32.06kB/s    0:00:00 (xfer#538, to-check=130/717)
+NORSEd_1km/InputFiles/Gridpak/Build/coast.o
+       32768  83%   91.17kB/s    0:00:00       39416 100%  108.12kB/s    0:00:00 (xfer#539, to-check=129/717)
+NORSEd_1km/InputFiles/Gridpak/Build/comf.f90
+        7499 100%   19.53kB/s    0:00:00        7499 100%   19.48kB/s    0:00:00 (xfer#540, to-check=128/717)
+NORSEd_1km/InputFiles/Gridpak/Build/comf.o
+        8048 100%   20.05kB/s    0:00:00        8048 100%   20.05kB/s    0:00:00 (xfer#541, to-check=127/717)
+NORSEd_1km/InputFiles/Gridpak/Build/cpsfill.f90
+       20670 100%   50.59kB/s    0:00:00       20670 100%   50.59kB/s    0:00:00 (xfer#542, to-check=126/717)
+NORSEd_1km/InputFiles/Gridpak/Build/cpsfill.o
+       31256 100%   72.16kB/s    0:00:00       31256 100%   72.16kB/s    0:00:00 (xfer#543, to-check=125/717)
+NORSEd_1km/InputFiles/Gridpak/Build/def_grid.f90
+       32768  97%   72.89kB/s    0:00:00       33705 100%   74.98kB/s    0:00:00 (xfer#544, to-check=124/717)
+NORSEd_1km/InputFiles/Gridpak/Build/def_grid.o
+       32768  36%   70.02kB/s    0:00:00       89624 100%  187.82kB/s    0:00:00 (xfer#545, to-check=123/717)
+NORSEd_1km/InputFiles/Gridpak/Build/drawcoast.f90
+        1601 100%    3.15kB/s    0:00:00        1601 100%    3.15kB/s    0:00:00 (xfer#546, to-check=122/717)
+NORSEd_1km/InputFiles/Gridpak/Build/drawcoast.o
+        6912 100%    7.30kB/s    0:00:00        6912 100%    7.30kB/s    0:00:00 (xfer#547, to-check=121/717)
+NORSEd_1km/InputFiles/Gridpak/Build/extract.f90
+        3743 100%    3.89kB/s    0:00:00        3743 100%    3.89kB/s    0:00:00 (xfer#548, to-check=120/717)
+NORSEd_1km/InputFiles/Gridpak/Build/extract.o
+       12568 100%   12.16kB/s    0:00:00       12568 100%   12.16kB/s    0:00:01 (xfer#549, to-check=119/717)
+NORSEd_1km/InputFiles/Gridpak/Build/genbun.f90
+       32768  83%   30.56kB/s    0:00:00       39314 100%   36.49kB/s    0:00:00       39314 100%   36.49kB/s    0:00:01 (xfer#550, to-check=118/717)
+NORSEd_1km/InputFiles/Gridpak/Build/genbun.o
+       32768  15%  266.67kB/s    0:00:00      209328 100%    1.58MB/s    0:00:00 (xfer#551, to-check=117/717)
+NORSEd_1km/InputFiles/Gridpak/Build/geodesic_dist.f90
+        7486 100%   34.00kB/s    0:00:00        7486 100%   34.00kB/s    0:00:00 (xfer#552, to-check=116/717)
+NORSEd_1km/InputFiles/Gridpak/Build/geodesic_dist.o
+       11680 100%   51.61kB/s    0:00:00       11680 100%   51.61kB/s    0:00:00 (xfer#553, to-check=115/717)
+NORSEd_1km/InputFiles/Gridpak/Build/get_date.f90
+        9488 100%   32.74kB/s    0:00:00        9488 100%   32.74kB/s    0:00:00 (xfer#554, to-check=114/717)
+NORSEd_1km/InputFiles/Gridpak/Build/get_date.o
+       14144 100%   45.74kB/s    0:00:00       14144 100%   45.74kB/s    0:00:00 (xfer#555, to-check=113/717)
+NORSEd_1km/InputFiles/Gridpak/Build/get_h.f90
+        7548 100%   22.68kB/s    0:00:00        7548 100%   22.68kB/s    0:00:00 (xfer#556, to-check=112/717)
+NORSEd_1km/InputFiles/Gridpak/Build/get_h.o
+       17224 100%   49.04kB/s    0:00:00       17224 100%   49.04kB/s    0:00:00 (xfer#557, to-check=111/717)
+NORSEd_1km/InputFiles/Gridpak/Build/get_lat.f90
+       10327 100%   27.48kB/s    0:00:00       10327 100%   27.48kB/s    0:00:00 (xfer#558, to-check=110/717)
+NORSEd_1km/InputFiles/Gridpak/Build/get_lat.o
+       32768  98%   84.43kB/s    0:00:00       33168 100%   85.46kB/s    0:00:00 (xfer#559, to-check=109/717)
+NORSEd_1km/InputFiles/Gridpak/Build/get_mn.f90
+        7356 100%   18.76kB/s    0:00:00        7356 100%   18.71kB/s    0:00:00 (xfer#560, to-check=108/717)
+NORSEd_1km/InputFiles/Gridpak/Build/get_mn.o
+       17336 100%   43.86kB/s    0:00:00       17336 100%   43.86kB/s    0:00:00 (xfer#561, to-check=107/717)
+NORSEd_1km/InputFiles/Gridpak/Build/get_rmask.f90
+        6885 100%   16.68kB/s    0:00:00        6885 100%   16.68kB/s    0:00:00 (xfer#562, to-check=106/717)
+NORSEd_1km/InputFiles/Gridpak/Build/get_rmask.o
+       14752 100%   34.30kB/s    0:00:00       14752 100%   34.30kB/s    0:00:00 (xfer#563, to-check=105/717)
+NORSEd_1km/InputFiles/Gridpak/Build/get_xy.f90
+       10102 100%   22.02kB/s    0:00:00       10102 100%   22.02kB/s    0:00:00 (xfer#564, to-check=104/717)
+NORSEd_1km/InputFiles/Gridpak/Build/get_xy.o
+       32768  98%   68.97kB/s    0:00:00       33136 100%   69.74kB/s    0:00:00 (xfer#565, to-check=103/717)
+NORSEd_1km/InputFiles/Gridpak/Build/gnbnaux.f90
+       10697 100%   15.64kB/s    0:00:00       10697 100%   15.64kB/s    0:00:00 (xfer#566, to-check=102/717)
+NORSEd_1km/InputFiles/Gridpak/Build/gnbnaux.o
+       24960 100%   35.74kB/s    0:00:00       24960 100%   35.69kB/s    0:00:00 (xfer#567, to-check=101/717)
+NORSEd_1km/InputFiles/Gridpak/Build/grid.f90
+       32768  37%   45.58kB/s    0:00:01       87917 100%  121.27kB/s    0:00:00 (xfer#568, to-check=100/717)
+NORSEd_1km/InputFiles/Gridpak/Build/grid.o
+       32768  13%   43.96kB/s    0:00:04      240784 100%  319.05kB/s    0:00:00 (xfer#569, to-check=99/717)
+NORSEd_1km/InputFiles/Gridpak/Build/libUTIL.a
+       32768   2%   42.44kB/s    0:00:28     1236364 100%    1.48MB/s    0:00:00 (xfer#570, to-check=98/717)
+NORSEd_1km/InputFiles/Gridpak/Build/netcdf.mod
+       21984 100%   26.25kB/s    0:00:00       21984 100%   26.25kB/s    0:00:00 (xfer#571, to-check=97/717)
+NORSEd_1km/InputFiles/Gridpak/Build/opencdf.f90
+       10348 100%   11.89kB/s    0:00:00       10348 100%   11.89kB/s    0:00:00 (xfer#572, to-check=96/717)
+NORSEd_1km/InputFiles/Gridpak/Build/opencdf.o
+       26176 100%   29.97kB/s    0:00:00       26176 100%   29.97kB/s    0:00:00 (xfer#573, to-check=95/717)
+NORSEd_1km/InputFiles/Gridpak/Build/ploth.f90
+       19090 100%   21.09kB/s    0:00:00       19090 100%   21.09kB/s    0:00:00 (xfer#574, to-check=94/717)
+NORSEd_1km/InputFiles/Gridpak/Build/ploth.o
+       32768  32%   35.01kB/s    0:00:01       99400 100%  105.51kB/s    0:00:00 (xfer#575, to-check=93/717)
+NORSEd_1km/InputFiles/Gridpak/Build/sepaux.f90
+       15493 100%   16.27kB/s    0:00:00       15493 100%   16.27kB/s    0:00:00 (xfer#576, to-check=92/717)
+NORSEd_1km/InputFiles/Gridpak/Build/sepaux.o
+       32768  31%   33.40kB/s    0:00:02      104320 100%  105.79kB/s    0:00:00 (xfer#577, to-check=91/717)
+NORSEd_1km/InputFiles/Gridpak/Build/sepeli.f90
+       32768  74%   30.71kB/s    0:00:00       44213 100%   41.20kB/s    0:00:00       44213 100%   41.16kB/s    0:00:01 (xfer#578, to-check=90/717)
+NORSEd_1km/InputFiles/Gridpak/Build/sepeli.o
+       32768  46%   15.62MB/s    0:00:00       69808 100%    8.32MB/s    0:00:00 (xfer#579, to-check=89/717)
+NORSEd_1km/InputFiles/Gridpak/Build/sepx4.f90
+       32768  83%    1.12MB/s    0:00:00       39047 100%  907.90kB/s    0:00:00 (xfer#580, to-check=88/717)
+NORSEd_1km/InputFiles/Gridpak/Build/sepx4.o
+       32768  48%  542.37kB/s    0:00:00       67224 100%  729.43kB/s    0:00:00 (xfer#581, to-check=87/717)
+NORSEd_1km/InputFiles/Gridpak/Build/sphere.f90
+       21783 100%  189.93kB/s    0:00:00       21783 100%  189.93kB/s    0:00:00 (xfer#582, to-check=86/717)
+NORSEd_1km/InputFiles/Gridpak/Build/sphere.o
+       32768  26%  271.19kB/s    0:00:00      122216 100%  970.34kB/s    0:00:00 (xfer#583, to-check=85/717)
+NORSEd_1km/InputFiles/Gridpak/Build/start_plot.f90
+        1069 100%    8.29kB/s    0:00:00        1069 100%    8.29kB/s    0:00:00 (xfer#584, to-check=84/717)
+NORSEd_1km/InputFiles/Gridpak/Build/start_plot.o
+        4384 100%   32.43kB/s    0:00:00        4384 100%   32.43kB/s    0:00:00 (xfer#585, to-check=83/717)
+NORSEd_1km/InputFiles/Gridpak/Build/tolat.f90
+       11556 100%   84.22kB/s    0:00:00       11556 100%   84.22kB/s    0:00:00 (xfer#586, to-check=82/717)
+NORSEd_1km/InputFiles/Gridpak/Build/tolat.o
+       32768  56%  198.76kB/s    0:00:00       57792 100%  342.05kB/s    0:00:00 (xfer#587, to-check=81/717)
+NORSEd_1km/InputFiles/Gridpak/Build/typesizes.mod
+         493 100%    2.69kB/s    0:00:00         493 100%    2.67kB/s    0:00:00 (xfer#588, to-check=80/717)
+NORSEd_1km/InputFiles/Gridpak/Build/uv_mask.f90
+        5365 100%   26.20kB/s    0:00:00        5365 100%   26.20kB/s    0:00:00 (xfer#589, to-check=79/717)
+NORSEd_1km/InputFiles/Gridpak/Build/uv_mask.o
+       17904 100%   86.56kB/s    0:00:00       17904 100%   86.56kB/s    0:00:00 (xfer#590, to-check=78/717)
+NORSEd_1km/InputFiles/Gridpak/Build/vminmax.f90
+         981 100%    4.54kB/s    0:00:00         981 100%    4.54kB/s    0:00:00 (xfer#591, to-check=77/717)
+NORSEd_1km/InputFiles/Gridpak/Build/vminmax.o
+        5432 100%   24.79kB/s    0:00:00        5432 100%   24.79kB/s    0:00:00 (xfer#592, to-check=76/717)
+NORSEd_1km/InputFiles/Gridpak/Build/wrt_all.f90
+       14112 100%   62.64kB/s    0:00:00       14112 100%   62.64kB/s    0:00:00 (xfer#593, to-check=75/717)
+NORSEd_1km/InputFiles/Gridpak/Build/wrt_all.o
+       32768  64%  130.61kB/s    0:00:00       51192 100%  200.77kB/s    0:00:00 (xfer#594, to-check=74/717)
+NORSEd_1km/InputFiles/Gridpak/Build/wrt_fhmn.f90
+        9859 100%   36.47kB/s    0:00:00        9859 100%   36.47kB/s    0:00:00 (xfer#595, to-check=73/717)
+NORSEd_1km/InputFiles/Gridpak/Build/wrt_fhmn.o
+       28040 100%  101.42kB/s    0:00:00       28040 100%  101.42kB/s    0:00:00 (xfer#596, to-check=72/717)
+NORSEd_1km/InputFiles/Gridpak/Build/wrt_h.f90
+        7498 100%   24.17kB/s    0:00:00        7498 100%   24.17kB/s    0:00:00 (xfer#597, to-check=71/717)
+NORSEd_1km/InputFiles/Gridpak/Build/wrt_h.o
+       15528 100%   38.59kB/s    0:00:00       15528 100%   38.59kB/s    0:00:00 (xfer#598, to-check=70/717)
+NORSEd_1km/InputFiles/Gridpak/Build/wrt_lat.f90
+        9979 100%   23.89kB/s    0:00:00        9979 100%   23.89kB/s    0:00:00 (xfer#599, to-check=69/717)
+NORSEd_1km/InputFiles/Gridpak/Build/wrt_lat.o
+       26680 100%   63.39kB/s    0:00:00       26680 100%   63.39kB/s    0:00:00 (xfer#600, to-check=68/717)
+NORSEd_1km/InputFiles/Gridpak/Build/wrt_mask.f90
+        7356 100%   17.10kB/s    0:00:00        7356 100%   17.10kB/s    0:00:00 (xfer#601, to-check=67/717)
+NORSEd_1km/InputFiles/Gridpak/Build/wrt_mask.o
+       17640 100%   35.16kB/s    0:00:00       17640 100%   35.16kB/s    0:00:00 (xfer#602, to-check=66/717)
+NORSEd_1km/InputFiles/Gridpak/Compilers/
+NORSEd_1km/InputFiles/Gridpak/Compilers/CYGWIN-df.mk
+        2521 100%    4.75kB/s    0:00:00        2521 100%    4.75kB/s    0:00:00 (xfer#603, to-check=65/717)
+NORSEd_1km/InputFiles/Gridpak/Compilers/CYGWIN-g95.mk
+        1625 100%    2.99kB/s    0:00:00        1625 100%    2.99kB/s    0:00:00 (xfer#604, to-check=64/717)
+NORSEd_1km/InputFiles/Gridpak/Compilers/Darwin-f90.mk
+        1717 100%    3.06kB/s    0:00:00        1717 100%    3.06kB/s    0:00:00 (xfer#605, to-check=63/717)
+NORSEd_1km/InputFiles/Gridpak/Compilers/Darwin-xlf.mk
+        1875 100%    3.24kB/s    0:00:00        1875 100%    3.24kB/s    0:00:00 (xfer#606, to-check=62/717)
+NORSEd_1km/InputFiles/Gridpak/Compilers/Linux-gfortran.mk
+        2120 100%    3.50kB/s    0:00:00        2120 100%    3.50kB/s    0:00:00 (xfer#607, to-check=61/717)
+NORSEd_1km/InputFiles/Gridpak/Compilers/Linux-ifort.mk
+        1986 100%    2.98kB/s    0:00:00        1986 100%    2.98kB/s    0:00:00 (xfer#608, to-check=60/717)
+NORSEd_1km/InputFiles/Gridpak/Compilers/Linux-mpif90.mk
+        1808 100%    2.61kB/s    0:00:00        1808 100%    2.61kB/s    0:00:00 (xfer#609, to-check=59/717)
+NORSEd_1km/InputFiles/Gridpak/Compilers/Linux-path.mk
+        1825 100%    2.40kB/s    0:00:00        1825 100%    2.40kB/s    0:00:00 (xfer#610, to-check=58/717)
+NORSEd_1km/InputFiles/Gridpak/Compilers/Linux-pgi.mk
+        1858 100%    2.16kB/s    0:00:00        1858 100%    2.16kB/s    0:00:00 (xfer#611, to-check=57/717)
+NORSEd_1km/InputFiles/Gridpak/Compilers/MakeDepend
+        3460 100%    3.97kB/s    0:00:00        3460 100%    3.97kB/s    0:00:00 (xfer#612, to-check=56/717)
+NORSEd_1km/InputFiles/Gridpak/Drivers/
+NORSEd_1km/InputFiles/Gridpak/Drivers/Module.mk
+        2332 100%    2.51kB/s    0:00:00        2332 100%    2.51kB/s    0:00:00 (xfer#613, to-check=55/717)
+NORSEd_1km/InputFiles/Gridpak/Drivers/bathsoap.F
+        7660 100%    7.83kB/s    0:00:00        7660 100%    7.83kB/s    0:00:00 (xfer#614, to-check=54/717)
+NORSEd_1km/InputFiles/Gridpak/Drivers/bathsuds.F
+       12986 100%   13.01kB/s    0:00:00       12986 100%   13.01kB/s    0:00:00 (xfer#615, to-check=53/717)
+NORSEd_1km/InputFiles/Gridpak/Drivers/bathtub.F
+       17690 100%   17.49kB/s    0:00:00       17690 100%   17.49kB/s    0:00:00 (xfer#616, to-check=52/717)
+NORSEd_1km/InputFiles/Gridpak/Drivers/bathtub.F_ORIG
+       17764 100%   17.04kB/s    0:00:00       17764 100%   17.04kB/s    0:00:01 (xfer#617, to-check=51/717)
+NORSEd_1km/InputFiles/Gridpak/Drivers/coast.F
+        6219 100%    5.51kB/s    0:00:00        6219 100%    5.51kB/s    0:00:01 (xfer#618, to-check=50/717)
+NORSEd_1km/InputFiles/Gridpak/Drivers/grid.F
+       32286 100%   27.98kB/s    0:00:00       32286 100%   27.98kB/s    0:00:01 (xfer#619, to-check=49/717)
+NORSEd_1km/InputFiles/Gridpak/Drivers/grid.F_ORIG
+       32284 100%   27.13kB/s    0:00:00       32284 100%   27.13kB/s    0:00:01 (xfer#620, to-check=48/717)
+NORSEd_1km/InputFiles/Gridpak/Drivers/sphere.F
+       14973 100%   12.40kB/s    0:00:00       14973 100%   12.40kB/s    0:00:01 (xfer#621, to-check=47/717)
+NORSEd_1km/InputFiles/Gridpak/Drivers/tolat.F
+        7064 100%    5.74kB/s    0:00:00        7064 100%    5.74kB/s    0:00:01 (xfer#622, to-check=46/717)
+NORSEd_1km/InputFiles/Gridpak/Include/
+NORSEd_1km/InputFiles/Gridpak/Include/bathy.h
+        1794 100%    1.44kB/s    0:00:00        1794 100%    1.44kB/s    0:00:01 (xfer#623, to-check=45/717)
+NORSEd_1km/InputFiles/Gridpak/Include/coast.h
+         388 100%    0.30kB/s    0:00:00         388 100%    0.30kB/s    0:00:01 (xfer#624, to-check=44/717)
+NORSEd_1km/InputFiles/Gridpak/Include/grid.h
+        3784 100%    2.90kB/s    0:00:00        3784 100%    2.90kB/s    0:00:01 (xfer#625, to-check=43/717)
+NORSEd_1km/InputFiles/Gridpak/Include/griddefs.h
+        1344 100%    1.03kB/s    0:00:00        1344 100%    1.03kB/s    0:00:01 (xfer#626, to-check=42/717)
+NORSEd_1km/InputFiles/Gridpak/Include/gridid.h
+         244 100%    0.18kB/s    0:00:00         244 100%    0.18kB/s    0:00:01 (xfer#627, to-check=41/717)
+NORSEd_1km/InputFiles/Gridpak/Include/gridparam.h
+          71 100%    0.05kB/s    0:00:00          71 100%    0.05kB/s    0:00:01 (xfer#628, to-check=40/717)
+NORSEd_1km/InputFiles/Gridpak/Include/ncgrid.h
+        1826 100%    1.36kB/s    0:00:00        1826 100%    1.36kB/s    0:00:01 (xfer#629, to-check=39/717)
+NORSEd_1km/InputFiles/Gridpak/Include/proj.h
+         525 100%    0.38kB/s    0:00:00         525 100%    0.38kB/s    0:00:01 (xfer#630, to-check=38/717)
+NORSEd_1km/InputFiles/Gridpak/Include/sphereflags.h
+         631 100%    0.46kB/s    0:00:00         631 100%    0.46kB/s    0:00:01 (xfer#631, to-check=37/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/
+NORSEd_1km/InputFiles/Gridpak/Utility/Module.mk
+         172 100%    0.12kB/s    0:00:00         172 100%    0.12kB/s    0:00:01 (xfer#632, to-check=36/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/blktri.F
+       32768  66%   23.56kB/s    0:00:00       49479 100%   35.45kB/s    0:00:00       49479 100%   35.45kB/s    0:00:01 (xfer#633, to-check=35/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/checkdefs.F
+        4043 100%  197.41kB/s    0:00:00        4043 100%  197.41kB/s    0:00:00 (xfer#634, to-check=34/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/comf.F
+        7174 100%   73.75kB/s    0:00:00        7174 100%   73.75kB/s    0:00:00 (xfer#635, to-check=33/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/cpsfill.F
+       17504 100%  117.08kB/s    0:00:00       17504 100%  117.08kB/s    0:00:00 (xfer#636, to-check=32/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/def_grid.F
+       23805 100%  141.75kB/s    0:00:00       23805 100%  141.75kB/s    0:00:00 (xfer#637, to-check=31/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/drawcoast.F
+        1288 100%    7.03kB/s    0:00:00        1288 100%    7.03kB/s    0:00:00 (xfer#638, to-check=30/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/extract.F
+        3977 100%   17.82kB/s    0:00:00        3977 100%   17.82kB/s    0:00:00 (xfer#639, to-check=29/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/extract.F_ORIG
+        3528 100%   12.67kB/s    0:00:00        3528 100%   12.67kB/s    0:00:00 (xfer#640, to-check=28/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/genbun.F
+       32768  84%  104.23kB/s    0:00:00       38829 100%  122.32kB/s    0:00:00 (xfer#641, to-check=27/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/geodesic_dist.F
+        7385 100%   21.99kB/s    0:00:00        7385 100%   21.99kB/s    0:00:00 (xfer#642, to-check=26/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/get_date.F
+       11769 100%   33.22kB/s    0:00:00       11769 100%   33.22kB/s    0:00:00 (xfer#643, to-check=25/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/get_h.F
+        3285 100%    9.22kB/s    0:00:00        3285 100%    9.22kB/s    0:00:00 (xfer#644, to-check=24/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/get_lat.F
+        6056 100%   16.34kB/s    0:00:00        6056 100%   16.29kB/s    0:00:00 (xfer#645, to-check=23/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/get_mn.F
+        3095 100%    8.28kB/s    0:00:00        3095 100%    8.28kB/s    0:00:00 (xfer#646, to-check=22/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/get_rmask.F
+        2630 100%    6.67kB/s    0:00:00        2630 100%    6.67kB/s    0:00:00 (xfer#647, to-check=21/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/get_xy.F
+        5821 100%   14.32kB/s    0:00:00        5821 100%   14.28kB/s    0:00:00 (xfer#648, to-check=20/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/gnbnaux.F
+       10283 100%   24.43kB/s    0:00:00       10283 100%   24.43kB/s    0:00:00 (xfer#649, to-check=19/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/opencdf.F
+        5947 100%   12.85kB/s    0:00:00        5947 100%   12.85kB/s    0:00:00 (xfer#650, to-check=18/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/ploth.F
+        8549 100%   17.99kB/s    0:00:00        8549 100%   17.99kB/s    0:00:00 (xfer#651, to-check=17/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/sepaux.F
+       14867 100%   27.92kB/s    0:00:00       14867 100%   27.92kB/s    0:00:00 (xfer#652, to-check=16/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/sepeli.F
+       32768  75%   59.26kB/s    0:00:00       43523 100%   77.56kB/s    0:00:00 (xfer#653, to-check=15/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/sepeli.F_ORIG
+       32768  75%   55.56kB/s    0:00:00       43522 100%   72.90kB/s    0:00:00 (xfer#654, to-check=14/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/sepx4.F
+       32768  85%   51.70kB/s    0:00:00       38428 100%   60.04kB/s    0:00:00 (xfer#655, to-check=13/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/start_plot.F
+         753 100%    0.97kB/s    0:00:00         753 100%    0.97kB/s    0:00:00 (xfer#656, to-check=12/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/uv_mask.F
+         895 100%    1.13kB/s    0:00:00         895 100%    1.13kB/s    0:00:00 (xfer#657, to-check=11/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/vminmax.F
+         571 100%    0.66kB/s    0:00:00         571 100%    0.66kB/s    0:00:00 (xfer#658, to-check=10/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/wrt_all.F
+        9244 100%   10.15kB/s    0:00:00        9244 100%   10.15kB/s    0:00:00 (xfer#659, to-check=9/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/wrt_fhmn.F
+        5005 100%    5.33kB/s    0:00:00        5005 100%    5.33kB/s    0:00:00 (xfer#660, to-check=8/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/wrt_fhmn.F_ORIG
+        4498 100%    4.72kB/s    0:00:00        4498 100%    4.72kB/s    0:00:00 (xfer#661, to-check=7/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/wrt_h.F
+        2628 100%    2.74kB/s    0:00:00        2628 100%    2.74kB/s    0:00:00 (xfer#662, to-check=6/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/wrt_lat.F
+        5112 100%    5.18kB/s    0:00:00        5112 100%    5.18kB/s    0:00:00 (xfer#663, to-check=5/717)
+NORSEd_1km/InputFiles/Gridpak/Utility/wrt_mask.F
+        3112 100%    3.15kB/s    0:00:00        3112 100%    3.15kB/s    0:00:00 (xfer#664, to-check=4/717)
+NORSEd_1km/InputFiles/TidesNCL_tpxo9/
+NORSEd_1km/InputFiles/TidesNCL_tpxo9/NORSEd_1km_tides.nc
+       32768   0%   31.97kB/s    0:21:47       65536   0%   63.87kB/s    0:10:53    41819292 100%   29.41MB/s    0:00:01 (xfer#665, to-check=3/717)
+NORSEd_1km/InputFiles/TidesNCL_tpxo9/otps.ncl
+       10748 100%   27.55kB/s    0:00:00       10748 100%   27.55kB/s    0:00:00 (xfer#666, to-check=2/717)
+NORSEd_1km/InputFiles/TidesNCL_tpxo9/tide_file.ncl
+        3183 100%    7.77kB/s    0:00:00        3183 100%    7.77kB/s    0:00:00 (xfer#667, to-check=1/717)
+NORSEd_1km/InputFiles/TidesNCL_tpxo9/tides.ncgm
+        2880 100%    6.60kB/s    0:00:00        2880 100%    6.60kB/s    0:00:00 (xfer#668, to-check=0/717)
+
+sent 244883336418 bytes  received 12900 bytes  68127235.87 bytes/sec
+total size is 244853402759  speedup is 1.00

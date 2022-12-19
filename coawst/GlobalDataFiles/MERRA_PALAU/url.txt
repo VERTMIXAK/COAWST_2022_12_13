@@ -1,0 +1,2 @@
+https://goldsmr4.gesdisc.eosdis.nasa.gov/thredds/dodsC/MERRA2_aggregation/M2T1NXINT.5.12.4/M2T1NXINT.5.12.4_Aggregation_2022.ncml?lon[200:1:300],lat[300:1:360],time[0:1:7295],AUTCNVRN[0:1:7295][300:1:360][200:1:300]
+

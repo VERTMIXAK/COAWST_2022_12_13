@@ -1,0 +1,1 @@
+https://goldsmr4.gesdisc.eosdis.nasa.gov/thredds/ncss/MERRA2_aggregation/M2T1NXINT.5.12.4/M2T1NXINT.5.12.4_Aggregation_2022.ncml?var=PRECCU&var=PRECLS&var=PRECSN&disableProjSubset=on&horizStride=1&time_start=2022-01-01T00%3A30%3A00Z&time_end=2022-10-31T23%3A30%3A00Z&timeStride=1&accept=netcdf

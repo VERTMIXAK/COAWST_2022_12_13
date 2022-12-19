@@ -1,0 +1,54 @@
+clear; close all;tabwindow;
+
+
+templateFile   = '../Gridpak_child/PRAIRIEinner_1km_child.nc_template';
+parentFile   =                    'PRAIRIEinner_1km.nc';
+childFile   =                     'PRAIRIEinnerNest_1km.nc';
+childFile_oldMethod   =           'PRAIRIEinnerNest_1km.nc_oldMethod';
+childDataFile =                   'PRAIRIEinnerNest_1km.nc_data';
+
+contactsFile = 'PRAIRIEinnerNest_contacts_1km.nc';
+contactsFile_oldMethod = 'PRAIRIEinnerNest_contacts_1km_oldMethod.nc';
+
+
+unix(['\rm *ths.txt ',childFile,' ',contactsFile])
+
+
+
+
+%% write this data into the child file template 
+
+% unix(['cp ',templateFile,' ',childFile]);
+unix(['cp ',childFile_oldMethod,' ',childFile]);
+
+fieldList = {
+    'lat_rho','lat_psi','lat_u','lat_v',         ...
+    'lon_rho','lon_psi','lon_u','lon_v',         ...
+    'x_rho','x_psi','x_u','x_v',         ...
+    'y_rho','y_psi','y_u','y_v',         ...
+    'mask_rho','mask_psi','mask_u','mask_v',         ...
+    'h','f','angle'
+    };
+
+for ff=1:length(fieldList);
+    dum = nc_varget(childDataFile,char(fieldList(ff)));
+    nc_varput(childFile,char(fieldList(ff)),dum);
+end;
+
+
+
+%% Make the contacts file
+
+% Gnames = {parentFile, childFile_oldMethod}
+% 
+% [S,G] = contact(Gnames,contactsFile_oldMethod)
+
+
+%% Make the contacts file
+
+Gnames = {parentFile, childFile}
+
+[S,G] = contact(Gnames,contactsFile)
+
+
+
